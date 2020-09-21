@@ -26,8 +26,9 @@ Objects {
   ChildIds: 6438125948860681886
   ChildIds: 11684339653436469903
   ChildIds: 8014035117834832800
-  ChildIds: 906347794490143655
-  ChildIds: 6693435983120256746
+  ChildIds: 16388236777638679661
+  ChildIds: 17822323184263680977
+  ChildIds: 11293690457948583162
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -40,8 +41,60 @@ Objects {
   }
 }
 Objects {
-  Id: 6693435983120256746
-  Name: "Obstacles2"
+  Id: 11293690457948583162
+  Name: "Bolts2"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Bolts2"
+  }
+}
+Objects {
+  Id: 17822323184263680977
+  Name: "Bolts"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Bolts"
+  }
+}
+Objects {
+  Id: 16388236777638679661
+  Name: "Boss"
   Transform {
     Location {
     }
@@ -77,36 +130,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Obstacles2"
-  }
-}
-Objects {
-  Id: 906347794490143655
-  Name: "Obstacles"
-  Transform {
-    Location {
-      X: 2350
-      Y: -1600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  WantsNetworking: true
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Obstacles"
+    FilePartitionName: "Boss"
   }
 }
 Objects {
@@ -117,6 +141,9 @@ Objects {
       X: 3400
       Y: -3450
       Z: -50
+    }
+    Rotation {
+      Yaw: -35
     }
     Scale {
       X: 1
@@ -1906,7 +1933,7 @@ Objects {
       }
     }
     Text {
-      Label: "(Lore here)"
+      Label: "Beware of lightning"
       Color {
         R: 0.25
         G: 0.821191967
@@ -2219,8 +2246,8 @@ Objects {
   Control {
     Width: 1000
     Height: 60
-    UIX: 300
-    UIY: 500
+    UIX: 400
+    UIY: 800
     RenderTransformPivot {
       Anchor {
         Value: "mc:euianchor:middlecenter"
@@ -2233,7 +2260,7 @@ Objects {
         B: 1
         A: 1
       }
-      Size: 100
+      Size: 50
       Justification {
         Value: "mc:etextjustify:center"
       }
@@ -4574,6 +4601,14 @@ Objects {
       Bool: false
     }
     Overrides {
+      Name: "cs:boltStrike"
+      Bool: false
+    }
+    Overrides {
+      Name: "cs:boltStrike2"
+      Bool: false
+    }
+    Overrides {
       Name: "cs:gameOver:isrep"
       Bool: true
     }
@@ -4587,6 +4622,14 @@ Objects {
     }
     Overrides {
       Name: "cs:intro:isrep"
+      Bool: true
+    }
+    Overrides {
+      Name: "cs:boltStrike:isrep"
+      Bool: true
+    }
+    Overrides {
+      Name: "cs:boltStrike2:isrep"
       Bool: true
     }
   }

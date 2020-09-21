@@ -1,7 +1,7 @@
 ﻿Name: "dont open"
-RootId: 2359184314671577148
+RootId: 18275158062120727447
 Objects {
-  Id: 8015201295880052425
+  Id: 2672204775490281921
   Name: "Smoke Volume VFX"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 5.90247536
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -81,7 +81,7 @@ Objects {
   }
 }
 Objects {
-  Id: 3038233370057314050
+  Id: 1337478492888713547
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -97,7 +97,7 @@ Objects {
       Z: 19.3803711
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -141,7 +141,7 @@ Objects {
   }
 }
 Objects {
-  Id: 2207259454172871581
+  Id: 3494275263881264022
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -157,7 +157,7 @@ Objects {
       Z: 9.8047905
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -201,7 +201,7 @@ Objects {
   }
 }
 Objects {
-  Id: 4581099440319082915
+  Id: 14203275727301011575
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -217,7 +217,7 @@ Objects {
       Z: 11.6232538
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -258,7 +258,7 @@ Objects {
   }
 }
 Objects {
-  Id: 12661155679684500597
+  Id: 18103278581194968076
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -274,7 +274,7 @@ Objects {
       Z: 14.7536211
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -315,7 +315,7 @@ Objects {
   }
 }
 Objects {
-  Id: 2808424591871839694
+  Id: 5413140527765671983
   Name: "Smoke Puff Radial VFX"
   Transform {
     Location {
@@ -332,7 +332,7 @@ Objects {
       Z: 4.36462593
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:Burst"
@@ -381,7 +381,7 @@ Objects {
   }
 }
 Objects {
-  Id: 15082821023445300992
+  Id: 12440253671936616007
   Name: "Smoke Puff Radial VFX"
   Transform {
     Location {
@@ -397,7 +397,7 @@ Objects {
       Z: 2.57558012
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:Burst"
@@ -446,7 +446,7 @@ Objects {
   }
 }
 Objects {
-  Id: 5805850921525840579
+  Id: 16289943160437553388
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -463,7 +463,7 @@ Objects {
       Z: 1.20148563
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -515,7 +515,7 @@ Objects {
   }
 }
 Objects {
-  Id: 6135215899636704763
+  Id: 2620186081403752323
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -532,7 +532,7 @@ Objects {
       Z: 1.20148563
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -584,7 +584,7 @@ Objects {
   }
 }
 Objects {
-  Id: 12716201766858000820
+  Id: 12843663361605633143
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -601,7 +601,7 @@ Objects {
       Z: 1.20148563
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -653,7 +653,7 @@ Objects {
   }
 }
 Objects {
-  Id: 10562088940046375742
+  Id: 6739014714843976436
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -670,7 +670,7 @@ Objects {
       Z: 1.20148563
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -722,7 +722,7 @@ Objects {
   }
 }
 Objects {
-  Id: 10289238267825022407
+  Id: 6455026762417652133
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -739,7 +739,7 @@ Objects {
       Z: 1.20148563
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -791,7 +791,7 @@ Objects {
   }
 }
 Objects {
-  Id: 17528405432905900336
+  Id: 1281983342305793826
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -808,7 +808,7 @@ Objects {
       Z: 15.1191092
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -860,7 +860,7 @@ Objects {
   }
 }
 Objects {
-  Id: 655880956565139163
+  Id: 1184894618261437777
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -877,7 +877,7 @@ Objects {
       Z: 2.50119591
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -929,7 +929,7 @@ Objects {
   }
 }
 Objects {
-  Id: 11361455159911549258
+  Id: 7142017562515530075
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -946,7 +946,7 @@ Objects {
       Z: 2.50119591
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -998,7 +998,7 @@ Objects {
   }
 }
 Objects {
-  Id: 16245129485876433093
+  Id: 8228337097348838778
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -1015,7 +1015,7 @@ Objects {
       Z: 2.50119591
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -1067,7 +1067,7 @@ Objects {
   }
 }
 Objects {
-  Id: 2349148957389716568
+  Id: 7279707609630245521
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -1084,7 +1084,7 @@ Objects {
       Z: 2.50119591
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -1136,7 +1136,7 @@ Objects {
   }
 }
 Objects {
-  Id: 11727078946885314905
+  Id: 17383901727660726411
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -1153,7 +1153,7 @@ Objects {
       Z: 2.50119591
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -1205,7 +1205,7 @@ Objects {
   }
 }
 Objects {
-  Id: 2062335808732563670
+  Id: 5044490566713273050
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -1222,7 +1222,7 @@ Objects {
       Z: 2.50119591
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -1274,7 +1274,7 @@ Objects {
   }
 }
 Objects {
-  Id: 11160301475633805022
+  Id: 11661734057577911800
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -1291,7 +1291,7 @@ Objects {
       Z: 2.50119591
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -1343,7 +1343,7 @@ Objects {
   }
 }
 Objects {
-  Id: 11683262783556011905
+  Id: 16683526859294356040
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -1360,7 +1360,7 @@ Objects {
       Z: 2.50119591
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -1412,7 +1412,7 @@ Objects {
   }
 }
 Objects {
-  Id: 8173015446240334260
+  Id: 17877577021576165353
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -1429,7 +1429,7 @@ Objects {
       Z: 2.50119591
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -1481,7 +1481,7 @@ Objects {
   }
 }
 Objects {
-  Id: 12504738484103579638
+  Id: 10853941426447945237
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -1498,7 +1498,7 @@ Objects {
       Z: 2.50119591
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -1550,7 +1550,7 @@ Objects {
   }
 }
 Objects {
-  Id: 4761408187132143800
+  Id: 10531203694748731323
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -1567,7 +1567,7 @@ Objects {
       Z: 2.50119591
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -1619,7 +1619,7 @@ Objects {
   }
 }
 Objects {
-  Id: 17884635201709939317
+  Id: 8649794269491220903
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -1636,7 +1636,7 @@ Objects {
       Z: 2.50119591
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -1688,7 +1688,7 @@ Objects {
   }
 }
 Objects {
-  Id: 1989509922254584641
+  Id: 1886771005548496671
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -1705,7 +1705,7 @@ Objects {
       Z: 1.20148563
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -1757,7 +1757,7 @@ Objects {
   }
 }
 Objects {
-  Id: 16914412324581161695
+  Id: 7734485472124773332
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -1774,7 +1774,7 @@ Objects {
       Z: 1.20148563
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -1826,7 +1826,7 @@ Objects {
   }
 }
 Objects {
-  Id: 13088412770670809913
+  Id: 4817310524387825899
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -1843,7 +1843,7 @@ Objects {
       Z: 1.20148563
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -1895,7 +1895,7 @@ Objects {
   }
 }
 Objects {
-  Id: 5589122436365962546
+  Id: 3506294675158733153
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -1912,7 +1912,7 @@ Objects {
       Z: 19.2229538
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -1964,7 +1964,7 @@ Objects {
   }
 }
 Objects {
-  Id: 18446668897334983516
+  Id: 3691140156112699149
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -1981,7 +1981,7 @@ Objects {
       Z: 1.74394691
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -2033,7 +2033,7 @@ Objects {
   }
 }
 Objects {
-  Id: 3680313786131909737
+  Id: 10904240543638253951
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -2050,7 +2050,7 @@ Objects {
       Z: 2.74822688
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -2102,7 +2102,7 @@ Objects {
   }
 }
 Objects {
-  Id: 18014725751402311762
+  Id: 1147843459765913237
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -2119,7 +2119,7 @@ Objects {
       Z: 1.81119621
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -2171,7 +2171,7 @@ Objects {
   }
 }
 Objects {
-  Id: 8649916527810712134
+  Id: 12263982931550845611
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -2188,7 +2188,7 @@ Objects {
       Z: 2.18335915
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -2240,7 +2240,7 @@ Objects {
   }
 }
 Objects {
-  Id: 18231675858476453303
+  Id: 7521752215221459947
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -2257,7 +2257,7 @@ Objects {
       Z: 1.8514868
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -2309,7 +2309,7 @@ Objects {
   }
 }
 Objects {
-  Id: 12012092451500578586
+  Id: 14330205468244604868
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -2326,7 +2326,7 @@ Objects {
       Z: 2.74822688
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -2378,7 +2378,7 @@ Objects {
   }
 }
 Objects {
-  Id: 4715967567291644974
+  Id: 12119889488625489349
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -2395,7 +2395,7 @@ Objects {
       Z: 2.28735733
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -2447,7 +2447,7 @@ Objects {
   }
 }
 Objects {
-  Id: 17338013739364566520
+  Id: 1006473526522401404
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -2464,7 +2464,7 @@ Objects {
       Z: 12.5836735
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -2516,7 +2516,7 @@ Objects {
   }
 }
 Objects {
-  Id: 9742618852936980876
+  Id: 8707523840795251457
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -2533,7 +2533,7 @@ Objects {
       Z: 2.0817523
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -2585,7 +2585,7 @@ Objects {
   }
 }
 Objects {
-  Id: 10418825519955863879
+  Id: 12236170491752805469
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -2602,7 +2602,7 @@ Objects {
       Z: 2.0817523
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -2654,7 +2654,7 @@ Objects {
   }
 }
 Objects {
-  Id: 16888594036819463835
+  Id: 14526235530374517933
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -2671,7 +2671,7 @@ Objects {
       Z: 2.0817523
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -2723,7 +2723,7 @@ Objects {
   }
 }
 Objects {
-  Id: 17857937340873599063
+  Id: 6920893091371373771
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -2740,7 +2740,7 @@ Objects {
       Z: 2.0817523
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -2792,7 +2792,7 @@ Objects {
   }
 }
 Objects {
-  Id: 10021563089141046129
+  Id: 156288358208156315
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -2809,7 +2809,7 @@ Objects {
       Z: 2.0817523
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -2861,7 +2861,7 @@ Objects {
   }
 }
 Objects {
-  Id: 14550675336061232947
+  Id: 2055335333861770736
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -2878,7 +2878,7 @@ Objects {
       Z: 2.0817523
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -2930,7 +2930,7 @@ Objects {
   }
 }
 Objects {
-  Id: 4164886547586946539
+  Id: 1161487188815101929
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -2947,7 +2947,7 @@ Objects {
       Z: 2.0817523
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -2999,7 +2999,7 @@ Objects {
   }
 }
 Objects {
-  Id: 909216886921227282
+  Id: 3776335631795875156
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -3016,7 +3016,7 @@ Objects {
       Z: 2.0817523
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -3068,7 +3068,7 @@ Objects {
   }
 }
 Objects {
-  Id: 8603518328476025714
+  Id: 11931420118964252037
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -3085,7 +3085,7 @@ Objects {
       Z: 2.0817523
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -3137,7 +3137,7 @@ Objects {
   }
 }
 Objects {
-  Id: 11630875257626148374
+  Id: 6202719117689648188
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -3154,7 +3154,7 @@ Objects {
       Z: 2.0817523
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -3206,7 +3206,7 @@ Objects {
   }
 }
 Objects {
-  Id: 6222609424004171435
+  Id: 2811480474351780966
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -3223,7 +3223,7 @@ Objects {
       Z: 15.9993172
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -3275,7 +3275,7 @@ Objects {
   }
 }
 Objects {
-  Id: 6670717900965791056
+  Id: 3369017648122028053
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -3292,7 +3292,7 @@ Objects {
       Z: 1.45149136
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -3344,7 +3344,7 @@ Objects {
   }
 }
 Objects {
-  Id: 24507922695316734
+  Id: 16791865199346411466
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -3361,7 +3361,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -3413,7 +3413,7 @@ Objects {
   }
 }
 Objects {
-  Id: 16258765822910246962
+  Id: 8444676009696316182
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -3432,7 +3432,7 @@ Objects {
       Z: -7.71370554
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -3484,7 +3484,7 @@ Objects {
   }
 }
 Objects {
-  Id: 10382543578110308088
+  Id: 14401681545837997349
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -3500,7 +3500,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -3552,7 +3552,7 @@ Objects {
   }
 }
 Objects {
-  Id: 3157999325658089050
+  Id: 7257957688199675845
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -3568,7 +3568,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -3620,7 +3620,7 @@ Objects {
   }
 }
 Objects {
-  Id: 17139269343545288170
+  Id: 13167008945988881663
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -3636,7 +3636,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -3688,7 +3688,7 @@ Objects {
   }
 }
 Objects {
-  Id: 1250543846505466629
+  Id: 9820362635821201547
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -3704,7 +3704,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -3756,7 +3756,7 @@ Objects {
   }
 }
 Objects {
-  Id: 17244359780505088702
+  Id: 13661902240834894016
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -3772,7 +3772,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -3824,7 +3824,7 @@ Objects {
   }
 }
 Objects {
-  Id: 10903377390524911334
+  Id: 2129363930963369242
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -3840,7 +3840,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -3892,7 +3892,7 @@ Objects {
   }
 }
 Objects {
-  Id: 15442994766519068559
+  Id: 9687488723960161666
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -3908,7 +3908,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -3960,7 +3960,7 @@ Objects {
   }
 }
 Objects {
-  Id: 16770759796033690942
+  Id: 14169232940877197773
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -3976,7 +3976,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -4028,7 +4028,7 @@ Objects {
   }
 }
 Objects {
-  Id: 852896519438646361
+  Id: 5261393141946135789
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -4044,7 +4044,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -4096,7 +4096,7 @@ Objects {
   }
 }
 Objects {
-  Id: 7084686141064052750
+  Id: 14398591170362869599
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -4112,7 +4112,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -4164,7 +4164,7 @@ Objects {
   }
 }
 Objects {
-  Id: 13711879807874281063
+  Id: 17152777233851329301
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -4180,7 +4180,7 @@ Objects {
       Z: 12.5836735
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -4232,7 +4232,7 @@ Objects {
   }
 }
 Objects {
-  Id: 11981334971409487651
+  Id: 16941608164634399117
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -4248,7 +4248,7 @@ Objects {
       Z: 1.50746334
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -4300,7 +4300,7 @@ Objects {
   }
 }
 Objects {
-  Id: 9691617817935913523
+  Id: 13268706071657556965
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -4316,7 +4316,7 @@ Objects {
       Z: 1.81721556
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -4368,7 +4368,7 @@ Objects {
   }
 }
 Objects {
-  Id: 13975809286359268759
+  Id: 3686603817779939031
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -4384,7 +4384,7 @@ Objects {
       Z: 1.54099727
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -4436,7 +4436,7 @@ Objects {
   }
 }
 Objects {
-  Id: 14101910081773832588
+  Id: 8893540295682107464
   Name: "Torch Fire VFX"
   Transform {
     Location {
@@ -4452,7 +4452,7 @@ Objects {
       Z: 9.88842
     }
   }
-  ParentId: 2359184314671577148
+  ParentId: 18275158062120727447
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"

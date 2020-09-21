@@ -1,7 +1,7 @@
-﻿Name: "Obstacles2"
-RootId: 6693435983120256746
+﻿Name: "Boss"
+RootId: 16388236777638679661
 Objects {
-  Id: 7847067823249178743
+  Id: 11714722631154139200
   Name: "DisplayEncounter"
   Transform {
     Location {
@@ -14,7 +14,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6693435983120256746
+  ParentId: 16388236777638679661
   UnregisteredParameters {
     Overrides {
       Name: "cs:GameSettings"
@@ -37,7 +37,7 @@ Objects {
   }
 }
 Objects {
-  Id: 2042268954213089084
+  Id: 11899465791833411162
   Name: "SpinObject"
   Transform {
     Location {
@@ -52,7 +52,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6693435983120256746
+  ParentId: 16388236777638679661
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -67,7 +67,7 @@ Objects {
   }
 }
 Objects {
-  Id: 2806762276859203248
+  Id: 7023636690058435368
   Name: "lil boy"
   Transform {
     Location {
@@ -83,7 +83,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6693435983120256746
+  ParentId: 16388236777638679661
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"

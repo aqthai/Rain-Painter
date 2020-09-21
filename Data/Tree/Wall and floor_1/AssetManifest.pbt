@@ -8,21 +8,21 @@
   }
 }
 Assets {
+  Id: 17801311337890624959
+  Name: "Brick Red Old 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_brick_red_old_001_uv"
+  }
+}
+Assets {
   Id: 16674500630361701963
   Name: "Bricks Red 01"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "mi_brick_red_001"
-  }
-}
-Assets {
-  Id: 14444805171556956697
-  Name: "Wallpaper Chevron 01"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_gen_wallpaper_004"
   }
 }
 Assets {
@@ -41,15 +41,6 @@ Assets {
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "mi_wood_planks_001_uv"
-  }
-}
-Assets {
-  Id: 1694906334245735341
-  Name: "Wood Floor Light"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_wood_floor_light_001_uv"
   }
 }
 Assets {

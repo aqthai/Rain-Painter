@@ -1,7 +1,7 @@
 ﻿Name: "lil boy"
-RootId: 2806762276859203248
+RootId: 7023636690058435368
 Objects {
-  Id: 9171622831856620806
+  Id: 14205328156201911873
   Name: "water"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2806762276859203248
+  ParentId: 7023636690058435368
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -37,7 +37,7 @@ Objects {
   }
 }
 Objects {
-  Id: 2359184314671577148
+  Id: 18275158062120727447
   Name: "dont open"
   Transform {
     Location {
@@ -52,7 +52,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2806762276859203248
+  ParentId: 7023636690058435368
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -72,7 +72,7 @@ Objects {
   }
 }
 Objects {
-  Id: 5647647691519573153
+  Id: 11695788655173475253
   Name: "hot bod"
   Transform {
     Location {
@@ -88,7 +88,7 @@ Objects {
       Z: 1.00000012
     }
   }
-  ParentId: 2806762276859203248
+  ParentId: 7023636690058435368
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"

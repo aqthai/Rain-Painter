@@ -2,8 +2,8 @@
 local settings = script:GetCustomProperty("GameSettings"):WaitForObject()
 
 local function OnChanged(settings, key)
-    gameOver = settings:GetCustomProperty("gameStart")
-    if gameOver == true then
+    intro = settings:GetCustomProperty("intro")
+    if intro == true then
         ui.visibility = Visibility.INHERIT
     else
         ui.visibility = Visibility.FORCE_OFF

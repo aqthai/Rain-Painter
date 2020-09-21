@@ -1,7 +1,7 @@
 ﻿Name: "hot bod"
-RootId: 5647647691519573153
+RootId: 11695788655173475253
 Objects {
-  Id: 16890145062353832490
+  Id: 4022554952198348433
   Name: "Sphere"
   Transform {
     Location {
@@ -15,7 +15,7 @@ Objects {
       Z: 5.06906748
     }
   }
-  ParentId: 5647647691519573153
+  ParentId: 11695788655173475253
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -62,7 +62,7 @@ Objects {
   }
 }
 Objects {
-  Id: 6639340028305425805
+  Id: 16481111717515073312
   Name: "Sphere"
   Transform {
     Location {
@@ -76,7 +76,7 @@ Objects {
       Z: 5.16350079
     }
   }
-  ParentId: 5647647691519573153
+  ParentId: 11695788655173475253
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -122,7 +122,7 @@ Objects {
   }
 }
 Objects {
-  Id: 13033231481862269169
+  Id: 18119967061241793685
   Name: "Capsule"
   Transform {
     Location {
@@ -137,7 +137,7 @@ Objects {
       Z: 1.75
     }
   }
-  ParentId: 5647647691519573153
+  ParentId: 11695788655173475253
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -184,7 +184,7 @@ Objects {
   }
 }
 Objects {
-  Id: 13347679965362999949
+  Id: 15357944680797301856
   Name: "Capsule"
   Transform {
     Location {
@@ -199,7 +199,7 @@ Objects {
       Z: 1.75
     }
   }
-  ParentId: 5647647691519573153
+  ParentId: 11695788655173475253
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -246,7 +246,7 @@ Objects {
   }
 }
 Objects {
-  Id: 5248789341709897646
+  Id: 13901800559662258915
   Name: "Capsule"
   Transform {
     Location {
@@ -261,7 +261,7 @@ Objects {
       Z: 1.78260136
     }
   }
-  ParentId: 5647647691519573153
+  ParentId: 11695788655173475253
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -307,7 +307,7 @@ Objects {
   }
 }
 Objects {
-  Id: 14151229196855868554
+  Id: 12588883251364696788
   Name: "Capsule"
   Transform {
     Location {
@@ -322,7 +322,7 @@ Objects {
       Z: 1.78260136
     }
   }
-  ParentId: 5647647691519573153
+  ParentId: 11695788655173475253
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -368,7 +368,7 @@ Objects {
   }
 }
 Objects {
-  Id: 15918809182371450917
+  Id: 8312037265479333179
   Name: "Lens - Half"
   Transform {
     Location {
@@ -385,7 +385,7 @@ Objects {
       Z: 2.07812333
     }
   }
-  ParentId: 5647647691519573153
+  ParentId: 11695788655173475253
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -431,7 +431,7 @@ Objects {
   }
 }
 Objects {
-  Id: 16204162285201690531
+  Id: 3171495012783138768
   Name: "Lens - Half"
   Transform {
     Location {
@@ -448,7 +448,7 @@ Objects {
       Z: 2.07812333
     }
   }
-  ParentId: 5647647691519573153
+  ParentId: 11695788655173475253
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -494,7 +494,7 @@ Objects {
   }
 }
 Objects {
-  Id: 16862063859052426749
+  Id: 4773999028141440778
   Name: "Sphere"
   Transform {
     Location {
@@ -509,7 +509,7 @@ Objects {
       Z: 4.38715
     }
   }
-  ParentId: 5647647691519573153
+  ParentId: 11695788655173475253
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -556,7 +556,7 @@ Objects {
   }
 }
 Objects {
-  Id: 9427142211038961381
+  Id: 9844217716687486347
   Name: "Sphere"
   Transform {
     Location {
@@ -571,7 +571,7 @@ Objects {
       Z: 4.30691481
     }
   }
-  ParentId: 5647647691519573153
+  ParentId: 11695788655173475253
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -618,7 +618,7 @@ Objects {
   }
 }
 Objects {
-  Id: 7160056602103262132
+  Id: 3673441560080473024
   Name: "Lens - Half"
   Transform {
     Location {
@@ -635,7 +635,7 @@ Objects {
       Z: 2.04011726
     }
   }
-  ParentId: 5647647691519573153
+  ParentId: 11695788655173475253
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -682,7 +682,7 @@ Objects {
   }
 }
 Objects {
-  Id: 965818057056910525
+  Id: 3442390224097355027
   Name: "Lens - Half"
   Transform {
     Location {
@@ -699,7 +699,7 @@ Objects {
       Z: 2.04011726
     }
   }
-  ParentId: 5647647691519573153
+  ParentId: 11695788655173475253
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"

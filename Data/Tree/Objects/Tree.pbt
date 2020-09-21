@@ -1,6 +1,126 @@
 ﻿Name: "Objects"
 RootId: 16990012671700417463
 Objects {
+  Id: 906347794490143655
+  Name: "Obstacles"
+  Transform {
+    Location {
+      X: 2350
+      Y: -1600
+      Z: 50
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16990012671700417463
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Obstacles"
+  }
+}
+Objects {
+  Id: 5331474697220719325
+  Name: "Obstacles3"
+  Transform {
+    Location {
+      X: -1750
+      Y: 4250
+      Z: 50
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16990012671700417463
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Obstacles3"
+  }
+}
+Objects {
+  Id: 5616566513883682594
+  Name: "Obstacles3"
+  Transform {
+    Location {
+      X: -3250
+      Y: 500
+      Z: 50
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16990012671700417463
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Obstacles3_1"
+  }
+}
+Objects {
+  Id: 1686852601396737375
+  Name: "Obstacles"
+  Transform {
+    Location {
+      X: 1100
+      Y: 700
+      Z: -700
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16990012671700417463
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Obstacles_1"
+  }
+}
+Objects {
   Id: 7918014636357771798
   Name: "Fantasy Castle Stairs Spiral 04 - Large 3m"
   Transform {
