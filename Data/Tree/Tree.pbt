@@ -22,10 +22,12 @@ Objects {
   ChildIds: 3581326741864869308
   ChildIds: 10883757058697850590
   ChildIds: 16381951966790113691
-  ChildIds: 3792366307767399550
+  ChildIds: 9973674903851485459
   ChildIds: 6438125948860681886
   ChildIds: 11684339653436469903
   ChildIds: 8014035117834832800
+  ChildIds: 906347794490143655
+  ChildIds: 6693435983120256746
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -35,6 +37,76 @@ Objects {
     Value: "mc:evisibilitysetting:forceon"
   }
   Folder {
+  }
+}
+Objects {
+  Id: 6693435983120256746
+  Name: "Obstacles2"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:GameSettings"
+      ObjectReference {
+        SelfId: 16668152101245738767
+      }
+    }
+    Overrides {
+      Name: "cs:GameSettings_0"
+      ObjectReference {
+        SelfId: 16668152101245738767
+      }
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:forceoff"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Obstacles2"
+  }
+}
+Objects {
+  Id: 906347794490143655
+  Name: "Obstacles"
+  Transform {
+    Location {
+      X: 2350
+      Y: -1600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Obstacles"
   }
 }
 Objects {
@@ -1696,6 +1768,7 @@ Objects {
   ChildIds: 8479231999114098130
   ChildIds: 7614903914757675085
   ChildIds: 15728856388760714792
+  ChildIds: 5813379324326645686
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:forceoff"
@@ -1704,6 +1777,100 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   NetworkContext {
+  }
+}
+Objects {
+  Id: 5813379324326645686
+  Name: "BossUI"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13203814103269628746
+  ChildIds: 9406260152330244643
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:forceoff"
+  }
+  Control {
+    Width: 500
+    Height: 60
+    UIX: 1000
+    UIY: 200
+    RenderTransformPivot {
+      Anchor {
+        Value: "mc:euianchor:middlecenter"
+      }
+    }
+    Text {
+      Label: "(incomprehensible)"
+      Color {
+        R: 0.87
+        G: 0.155562937
+        A: 1
+      }
+      Size: 30
+      Justification {
+        Value: "mc:etextjustify:left"
+      }
+      AutoWrapText: true
+    }
+    AnchorLayout {
+      SelfAnchor {
+        Anchor {
+          Value: "mc:euianchor:topleft"
+        }
+      }
+      TargetAnchor {
+        Anchor {
+          Value: "mc:euianchor:topleft"
+        }
+      }
+    }
+  }
+}
+Objects {
+  Id: 9406260152330244643
+  Name: "DisplayPhrase"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5813379324326645686
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:GameSettings"
+      ObjectReference {
+        SelfId: 16668152101245738767
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 3631687257171605320
+    }
   }
 }
 Objects {
@@ -1834,7 +2001,7 @@ Objects {
       }
     }
     Text {
-      Label: "Desert Rain God notices you"
+      Label: "All Drops Collected!"
       Color {
         R: 0.0180000067
         G: 1
@@ -1919,7 +2086,7 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   Control {
-    Width: 200
+    Width: 700
     Height: 60
     UIX: 100
     UIY: 10
@@ -1929,7 +2096,6 @@ Objects {
       }
     }
     Text {
-      Label: "Drops"
       Color {
         R: 0.0580000281
         G: 1
@@ -1984,6 +2150,51 @@ Objects {
   }
 }
 Objects {
+  Id: 9973674903851485459
+  Name: "UI Container"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  ChildIds: 3792366307767399550
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Control {
+    RenderTransformPivot {
+      Anchor {
+        Value: "mc:euianchor:middlecenter"
+      }
+    }
+    Canvas {
+    }
+    AnchorLayout {
+      SelfAnchor {
+        Anchor {
+          Value: "mc:euianchor:topleft"
+        }
+      }
+      TargetAnchor {
+        Anchor {
+          Value: "mc:euianchor:topleft"
+        }
+      }
+    }
+  }
+}
+Objects {
   Id: 3792366307767399550
   Name: "RoundUI"
   Transform {
@@ -1997,7 +2208,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 9973674903851485459
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -2006,8 +2217,10 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   Control {
-    Width: 200
+    Width: 1000
     Height: 60
+    UIX: 300
+    UIY: 500
     RenderTransformPivot {
       Anchor {
         Value: "mc:euianchor:middlecenter"
@@ -2015,14 +2228,14 @@ Objects {
     }
     Text {
       Color {
-        R: 1
-        G: 1
+        R: 0.72
+        G: 0.788609266
         B: 1
         A: 1
       }
-      Size: 20
+      Size: 100
       Justification {
-        Value: "mc:etextjustify:left"
+        Value: "mc:etextjustify:center"
       }
       AutoWrapText: true
     }
@@ -4353,11 +4566,27 @@ Objects {
       Bool: false
     }
     Overrides {
+      Name: "cs:gameStart"
+      Bool: false
+    }
+    Overrides {
+      Name: "cs:intro"
+      Bool: false
+    }
+    Overrides {
       Name: "cs:gameOver:isrep"
       Bool: true
     }
     Overrides {
       Name: "cs:lightState:isrep"
+      Bool: true
+    }
+    Overrides {
+      Name: "cs:gameStart:isrep"
+      Bool: true
+    }
+    Overrides {
+      Name: "cs:intro:isrep"
       Bool: true
     }
   }

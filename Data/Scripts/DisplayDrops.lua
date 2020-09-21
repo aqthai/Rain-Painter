@@ -7,6 +7,6 @@ local player = Game.GetLocalPlayer()
 function Tick()
     Task.Wait(0.1)
     local score = player:GetResource("Teardrop - Truncated")
-    local displayString = "Drops"..": "..tostring(score or 0)
+    local displayString = player.name..": "..tostring(score or 0).." drops"
     script.parent.text = displayString
 end

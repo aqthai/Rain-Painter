@@ -9,6 +9,28 @@ local dropFolder = World.FindObjectByName("Drops")
 function Tick()
     Task.Wait(1)
     local dropsLeft = GetDropsLeft()
+    if dropsLeft == 5 then
+        World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("intro", true)
+        for i = 3, 0, -1 do
+            Task.Wait(1)
+            roundUI = World.FindObjectByName("RoundUI")
+            roundUI.text = "Rain Painter"
+        end
+        World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("gameStart", false)
+        roundUI.text = ""
+    end
+    
+    if dropsLeft == 10 then
+        World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("gameStart", true)
+        for i = 3, 0, -1 do
+            Task.Wait(1)
+            roundUI = World.FindObjectByName("RoundUI")
+            roundUI.text = ""
+        end
+        World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("gameStart", false)
+        roundUI.text = ""
+    end
+    
     if dropsLeft == 0 then
         World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("gameOver", true)
         for i = 3, 0, -1 do
