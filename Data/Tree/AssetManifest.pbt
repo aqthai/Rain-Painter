@@ -89,6 +89,15 @@ Assets {
   }
 }
 Assets {
+  Id: 8864297508483227123
+  Name: "Nature Thunder Clap Boom Set 01 SFX"
+  PlatformAssetType: 10
+  PrimaryAsset {
+    AssetType: "AudioBlueprintAssetRef"
+    AssetId: "sfxabp_thunder_ref"
+  }
+}
+Assets {
   Id: 8459741047462466352
   Name: "Chain Tile 01"
   PlatformAssetType: 1

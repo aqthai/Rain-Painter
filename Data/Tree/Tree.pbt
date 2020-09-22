@@ -31,6 +31,7 @@ Objects {
   ChildIds: 17822323184263680977
   ChildIds: 11293690457948583162
   ChildIds: 1250057767017623878
+  ChildIds: 10261987069843347996
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -40,6 +41,48 @@ Objects {
     Value: "mc:evisibilitysetting:forceon"
   }
   Folder {
+  }
+}
+Objects {
+  Id: 10261987069843347996
+  Name: "Nature Thunder Clap Boom Set 01 SFX"
+  Transform {
+    Location {
+      X: -2200
+      Y: 4150
+      Z: -50
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 8864297508483227123
+    }
+    TeamSettings {
+    }
+    AudioBP {
+      AutoPlay: true
+      Repeat: true
+      Volume: 1
+      Falloff: 3600
+      Radius: 400
+      EnableOcclusion: true
+      IsSpatializationEnabled: true
+      IsAttenuationEnabled: true
+    }
   }
 }
 Objects {
@@ -1858,6 +1901,12 @@ Objects {
   }
   ParentId: 13203814103269628746
   ChildIds: 9406260152330244643
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:IsOver"
+      Bool: false
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1865,8 +1914,8 @@ Objects {
     Value: "mc:evisibilitysetting:forceoff"
   }
   Control {
-    Width: 500
-    Height: 60
+    Width: 700
+    Height: 400
     UIX: 1000
     UIY: 200
     RenderTransformPivot {
@@ -1875,10 +1924,11 @@ Objects {
       }
     }
     Text {
-      Label: "(incomprehensible)"
+      Label: "To Nenili, also called Water Sprinkler is the Navaho god of Water. He is known to be a trickster, as he causes downpours on days people hope for clear skies or just raining on people for fun, but he truly means no harm, This is the true desert rain god,"
       Color {
-        R: 0.87
-        G: 0.155562937
+        R: 0.53
+        G: 0.598476648
+        B: 1
         A: 1
       }
       Size: 30
@@ -2493,6 +2543,12 @@ Objects {
     }
   }
   ParentId: 10005074784157121906
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Density"
+      Float: 7.4199872
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2538,7 +2594,10 @@ Objects {
     AudioAsset {
       Id: 8143830673096917146
     }
-    Volume: 1
+    AutoPlay: true
+    Repeat: true
+    Pitch: -865.775757
+    Volume: 1.55836189
     Falloff: -1
     Radius: -1
     EnableOcclusion: true
@@ -2564,6 +2623,16 @@ Objects {
     }
   }
   ParentId: 10005074784157121906
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Density"
+      Float: 1.18651235
+    }
+    Overrides {
+      Name: "bp:Life"
+      Float: 6.01474476
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2599,6 +2668,16 @@ Objects {
     }
   }
   ParentId: 10005074784157121906
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Density"
+      Float: 10
+    }
+    Overrides {
+      Name: "bp:Emissive Boost"
+      Float: 0
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2634,6 +2713,20 @@ Objects {
     }
   }
   ParentId: 10005074784157121906
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Density"
+      Float: 10
+    }
+    Overrides {
+      Name: "bp:Life"
+      Float: 10
+    }
+    Overrides {
+      Name: "bp:Emissive Boost"
+      Float: 26.4755669
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2669,6 +2762,20 @@ Objects {
     }
   }
   ParentId: 10005074784157121906
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Emissive Boost"
+      Float: 8.98545837
+    }
+    Overrides {
+      Name: "bp:Life"
+      Float: 8.79917
+    }
+    Overrides {
+      Name: "bp:Density"
+      Float: 10
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2749,6 +2856,7 @@ Objects {
     AudioAsset {
       Id: 8143830673096917146
     }
+    AutoPlay: true
     Volume: 1
     Falloff: -1
     Radius: -1
@@ -2821,6 +2929,9 @@ Objects {
     AudioAsset {
       Id: 8143830673096917146
     }
+    AutoPlay: true
+    Transient: true
+    Repeat: true
     Volume: 1
     Falloff: -1
     Radius: -1
@@ -2857,6 +2968,8 @@ Objects {
     AudioAsset {
       Id: 8143830673096917146
     }
+    AutoPlay: true
+    Pitch: -2400
     Volume: 1
     Falloff: -1
     Radius: -1
@@ -2984,12 +3097,26 @@ Objects {
     Rotation {
     }
     Scale {
-      X: 55.5000038
-      Y: 20.75
+      X: 218.250031
+      Y: 48
       Z: 1
     }
   }
   ParentId: 10005074784157121906
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Life"
+      Float: 6.01474476
+    }
+    Overrides {
+      Name: "bp:Density"
+      Float: 10
+    }
+    Overrides {
+      Name: "bp:Emissive Boost"
+      Float: 50
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3033,9 +3160,8 @@ Objects {
     Overrides {
       Name: "bp:Light Color"
       Color {
-        R: 1
-        G: 0.955973327
-        B: 0.73791039
+        R: 0.291666657
+        G: 0.231788069
         A: 1
       }
     }
@@ -3045,7 +3171,7 @@ Objects {
     }
     Overrides {
       Name: "bp:Size"
-      Float: 5
+      Float: 1
     }
     Overrides {
       Name: "bp:Light Shaft Bloom"
@@ -3242,7 +3368,7 @@ Objects {
     }
     Overrides {
       Name: "bp:Cloud Opacity"
-      Float: 0
+      Float: 1
     }
     Overrides {
       Name: "bp:Cloud Ambient Color"
@@ -3256,9 +3382,9 @@ Objects {
     Overrides {
       Name: "bp:Cloud Color"
       Color {
-        R: 2
-        G: 2
-        B: 2
+        R: 0.197916672
+        G: 0.16389975
+        B: 0.19651562
         A: 1
       }
     }
@@ -3268,7 +3394,7 @@ Objects {
     }
     Overrides {
       Name: "bp:Cloud Lighting Brightness"
-      Float: 1
+      Float: 0.5
     }
     Overrides {
       Name: "bp:Cloud Wisp Opacity"
@@ -3280,7 +3406,7 @@ Objects {
     }
     Overrides {
       Name: "bp:Brightness"
-      Float: 1
+      Float: 0.359418333
     }
     Overrides {
       Name: "bp:Background Clouds"
@@ -3288,11 +3414,13 @@ Objects {
     }
     Overrides {
       Name: "bp:High Cloud Index"
-      Int: 2
+      Enum {
+        Value: "mc:ehighaltitudecloudshapes:1"
+      }
     }
     Overrides {
       Name: "bp:High Cloud Opacity"
-      Float: 0
+      Float: 1
     }
     Overrides {
       Name: "bp:High Cloud Noise Amount"
@@ -3301,6 +3429,37 @@ Objects {
     Overrides {
       Name: "bp:High Cloud Noise Scale"
       Float: 0.2
+    }
+    Overrides {
+      Name: "bp:Overall Tint"
+      Color {
+        R: 1
+        G: 0.25
+        B: 0.63741684
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Cloud Wisp Color"
+      Color {
+        R: 0.395833343
+        G: 0.329861104
+        B: 0.373114407
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:High Cloud Brightness"
+      Float: 0
+    }
+    Overrides {
+      Name: "bp:High Cloud Color"
+      Color {
+        R: 0.137147471
+        G: 0.14612706
+        B: 0.208333328
+        A: 1
+      }
     }
   }
   Collidable_v2 {
