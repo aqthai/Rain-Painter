@@ -1,26 +1,26 @@
 ﻿Name: "lightning_1"
-RootId: 9104763274211367444
+RootId: 295656601091551304
 Objects {
-  Id: 14220483363848902071
+  Id: 10855779989546736718
   Name: "lightningBolt2"
   Transform {
     Location {
-      X: 426.940704
-      Y: -779.445435
-      Z: 987.050232
+      X: 551.584045
+      Y: -28.0595512
+      Z: 420.238373
     }
     Rotation {
-      Pitch: 3.21135
-      Yaw: 3.83412218
-      Roll: -129.891388
+      Pitch: -2.24134016
+      Yaw: 33.3466225
+      Roll: -79.6351318
     }
     Scale {
-      X: 0.571428478
-      Y: 0.571428478
-      Z: 0.571428478
+      X: 0.571428537
+      Y: 0.571428537
+      Z: 0.571428537
     }
   }
-  ParentId: 9104763274211367444
+  ParentId: 295656601091551304
   UnregisteredParameters {
     Overrides {
       Name: "cs:GameSettings"
@@ -43,7 +43,7 @@ Objects {
   }
 }
 Objects {
-  Id: 7256170030293455478
+  Id: 2011751545859429733
   Name: "Prism - 3-Sided"
   Transform {
     Location {
@@ -59,7 +59,7 @@ Objects {
       Z: 0.0825995207
     }
   }
-  ParentId: 9104763274211367444
+  ParentId: 295656601091551304
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -98,14 +98,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 7256170030293455478
+    SelfId: 9239180050489884548
     SubobjectId: 14417538373638293870
-    InstanceId: 17094568078381316849
+    InstanceId: 10166092113719937934
     TemplateId: 639784077014309936
   }
 }
 Objects {
-  Id: 16507960634927088996
+  Id: 500727517955388967
   Name: "Prism - 3-Sided"
   Transform {
     Location {
@@ -121,7 +121,7 @@ Objects {
       Z: 0.0825995207
     }
   }
-  ParentId: 9104763274211367444
+  ParentId: 295656601091551304
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -160,9 +160,9 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 16507960634927088996
+    SelfId: 113504524158576790
     SubobjectId: 5313812488293850748
-    InstanceId: 17094568078381316849
+    InstanceId: 10166092113719937934
     TemplateId: 639784077014309936
   }
 }

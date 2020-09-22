@@ -1,26 +1,26 @@
 ﻿Name: "lightning_2"
-RootId: 4190279292695371582
+RootId: 11155887461002721254
 Objects {
-  Id: 16737366809622829926
-  Name: "lightningBolt"
+  Id: 6231808978602639422
+  Name: "lightningBolt2"
   Transform {
     Location {
-      X: 1000.08789
-      Y: -364.540161
-      Z: 142.559692
+      X: 551.584045
+      Y: -28.0595512
+      Z: 420.238373
     }
     Rotation {
-      Pitch: -7.25313473
-      Yaw: 148.975555
-      Roll: 29.242466
+      Pitch: -2.24134016
+      Yaw: 33.3466225
+      Roll: -79.6351318
     }
     Scale {
-      X: 0.363636374
-      Y: 0.363636374
-      Z: 0.363636374
+      X: 0.571428537
+      Y: 0.571428537
+      Z: 0.571428537
     }
   }
-  ParentId: 4190279292695371582
+  ParentId: 11155887461002721254
   UnregisteredParameters {
     Overrides {
       Name: "cs:GameSettings"
@@ -38,12 +38,12 @@ Objects {
   }
   Script {
     ScriptAsset {
-      Id: 14622088892539577238
+      Id: 4636964852412678909
     }
   }
 }
 Objects {
-  Id: 7561067442575602362
+  Id: 9239180050489884548
   Name: "Prism - 3-Sided"
   Transform {
     Location {
@@ -59,7 +59,7 @@ Objects {
       Z: 0.0825995207
     }
   }
-  ParentId: 4190279292695371582
+  ParentId: 11155887461002721254
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -98,14 +98,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 1684169441673863018
+    SelfId: 9239180050489884548
     SubobjectId: 14417538373638293870
-    InstanceId: 5823108159627738604
+    InstanceId: 10166092113719937934
     TemplateId: 639784077014309936
   }
 }
 Objects {
-  Id: 8938352200686494580
+  Id: 113504524158576790
   Name: "Prism - 3-Sided"
   Transform {
     Location {
@@ -121,7 +121,7 @@ Objects {
       Z: 0.0825995207
     }
   }
-  ParentId: 4190279292695371582
+  ParentId: 11155887461002721254
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -160,9 +160,9 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 10877399958915762296
+    SelfId: 113504524158576790
     SubobjectId: 5313812488293850748
-    InstanceId: 5823108159627738604
+    InstanceId: 10166092113719937934
     TemplateId: 639784077014309936
   }
 }

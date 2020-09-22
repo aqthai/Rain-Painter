@@ -12,6 +12,7 @@ function Tick()
     
     if dropsLeft == 199 then
         World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("intro", true)
+        World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("weedFly", true)
         for i = 3, 0, -1 do
             Task.Wait(1)
             roundUI = World.FindObjectByName("RoundUI")
@@ -38,8 +39,34 @@ function Tick()
             Task.Wait(1)
             roundUI = World.FindObjectByName("RoundUI") -- optional warning
             roundUI.text = "Zap!"
+            if i == 1 then
+            	World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("boltStrike2", true)
+            end
         end
         roundUI.text = ""
+    end
+    
+    if dropsLeft == 170 then
+        World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("boltStrike", false)
+        World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("boltStrike2", false)
+    end
+    
+    if dropsLeft == 150 then
+        World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("boltStrike", true)
+        for i = 3, 0, -1 do
+            Task.Wait(1)
+            roundUI = World.FindObjectByName("RoundUI") -- optional warning
+            roundUI.text = "Zap!"
+            if i == 1 then
+            	World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("boltStrike2", true)
+            end
+        end
+        roundUI.text = ""
+    end
+    
+    if dropsLeft == 140 then
+        World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("boltStrike", false)
+        World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("boltStrike2", false)
     end
     
     if dropsLeft == 100 then

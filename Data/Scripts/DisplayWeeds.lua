@@ -2,13 +2,10 @@
 local settings = script:GetCustomProperty("GameSettings"):WaitForObject()
 
 local function OnChanged(settings, key)
-    gameStart = settings:GetCustomProperty("boltStrike2")
+    gameStart = settings:GetCustomProperty("weedFly")
     if gameStart == true then
         ui.visibility = Visibility.INHERIT
         ui.collision = Collision.INHERIT
-    else
-    	ui.visibility = Visibility.FORCE_OFF
-    	ui.collision = Collision.FORCE_OFF
     end
 end
 

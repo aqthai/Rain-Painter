@@ -1,6 +1,44 @@
 ﻿Name: "Obstacles3_1"
 RootId: 5616566513883682594
 Objects {
+  Id: 16920856942128846691
+  Name: "DisplayWeeds"
+  Transform {
+    Location {
+      X: 3250
+      Y: -500
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5616566513883682594
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:GameSettings"
+      ObjectReference {
+        SelfId: 16668152101245738767
+      }
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 16037402485252242744
+    }
+  }
+}
+Objects {
   Id: 15012129082434634353
   Name: "tumbleweed"
   Transform {

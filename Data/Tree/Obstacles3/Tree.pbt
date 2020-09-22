@@ -1,6 +1,44 @@
 ﻿Name: "Obstacles3"
 RootId: 5331474697220719325
 Objects {
+  Id: 15432075406643116899
+  Name: "DisplayWeeds"
+  Transform {
+    Location {
+      X: 1750
+      Y: -4250
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5331474697220719325
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:GameSettings"
+      ObjectReference {
+        SelfId: 16668152101245738767
+      }
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 16037402485252242744
+    }
+  }
+}
+Objects {
   Id: 12593438834375253555
   Name: "SpinObject"
   Transform {

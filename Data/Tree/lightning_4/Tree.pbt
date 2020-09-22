@@ -1,7 +1,7 @@
 ﻿Name: "lightning_4"
-RootId: 988217861687727880
+RootId: 4190279292695371582
 Objects {
-  Id: 17447150541455006044
+  Id: 16737366809622829926
   Name: "lightningBolt"
   Transform {
     Location {
@@ -20,7 +20,7 @@ Objects {
       Z: 0.363636374
     }
   }
-  ParentId: 988217861687727880
+  ParentId: 4190279292695371582
   UnregisteredParameters {
     Overrides {
       Name: "cs:GameSettings"
@@ -43,7 +43,7 @@ Objects {
   }
 }
 Objects {
-  Id: 1684169441673863018
+  Id: 7561067442575602362
   Name: "Prism - 3-Sided"
   Transform {
     Location {
@@ -59,7 +59,7 @@ Objects {
       Z: 0.0825995207
     }
   }
-  ParentId: 988217861687727880
+  ParentId: 4190279292695371582
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -105,7 +105,7 @@ Objects {
   }
 }
 Objects {
-  Id: 10877399958915762296
+  Id: 8938352200686494580
   Name: "Prism - 3-Sided"
   Transform {
     Location {
@@ -121,7 +121,7 @@ Objects {
       Z: 0.0825995207
     }
   }
-  ParentId: 988217861687727880
+  ParentId: 4190279292695371582
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"

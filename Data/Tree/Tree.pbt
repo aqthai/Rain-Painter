@@ -4609,6 +4609,10 @@ Objects {
       Bool: false
     }
     Overrides {
+      Name: "cs:weedFly"
+      Bool: false
+    }
+    Overrides {
       Name: "cs:gameOver:isrep"
       Bool: true
     }
@@ -4630,6 +4634,10 @@ Objects {
     }
     Overrides {
       Name: "cs:boltStrike2:isrep"
+      Bool: true
+    }
+    Overrides {
+      Name: "cs:weedFly:isrep"
       Bool: true
     }
   }
