@@ -1,7 +1,7 @@
 ﻿Name: "Obstacles3_1"
-RootId: 5616566513883682594
+RootId: 11309134190704573901
 Objects {
-  Id: 16920856942128846691
+  Id: 4551777104404644531
   Name: "DisplayWeeds"
   Transform {
     Location {
@@ -16,7 +16,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5616566513883682594
+  ParentId: 11309134190704573901
   UnregisteredParameters {
     Overrides {
       Name: "cs:GameSettings"
@@ -39,7 +39,7 @@ Objects {
   }
 }
 Objects {
-  Id: 15012129082434634353
+  Id: 3568084942366177425
   Name: "tumbleweed"
   Transform {
     Location {
@@ -55,7 +55,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5616566513883682594
+  ParentId: 11309134190704573901
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -76,7 +76,7 @@ Objects {
   }
 }
 Objects {
-  Id: 15297900292896348060
+  Id: 12565748033013849158
   Name: "SpinObject"
   Transform {
     Location {
@@ -91,7 +91,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5616566513883682594
+  ParentId: 11309134190704573901
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -106,7 +106,7 @@ Objects {
   }
 }
 Objects {
-  Id: 6830192294217449411
+  Id: 6530137185162946789
   Name: "tumbleweed"
   Transform {
     Location {
@@ -122,7 +122,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5616566513883682594
+  ParentId: 11309134190704573901
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -143,7 +143,7 @@ Objects {
   }
 }
 Objects {
-  Id: 18208522793178892142
+  Id: 9089467086909096697
   Name: "tumbleweed"
   Transform {
     Location {
@@ -159,7 +159,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5616566513883682594
+  ParentId: 11309134190704573901
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -180,7 +180,7 @@ Objects {
   }
 }
 Objects {
-  Id: 7630444438758242806
+  Id: 12591626565372563597
   Name: "tumbleweed"
   Transform {
     Location {
@@ -196,7 +196,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5616566513883682594
+  ParentId: 11309134190704573901
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"

@@ -53,6 +53,15 @@ Assets {
   }
 }
 Assets {
+  Id: 10329037566292304138
+  Name: "Bench Full"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_bench_001"
+  }
+}
+Assets {
   Id: 8971007613765797971
   Name: "Bark Oak 01"
   PlatformAssetType: 2

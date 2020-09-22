@@ -38,7 +38,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "lightning"
+    FilePartitionName: "lightning_4"
   }
   InstanceHistory {
     SelfId: 11155887461002721254
@@ -86,7 +86,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "lightning_1"
+    FilePartitionName: "lightning_5"
   }
   InstanceHistory {
     SelfId: 11155887461002721254
@@ -134,7 +134,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "lightning_2"
+    FilePartitionName: "lightning_6"
   }
   InstanceHistory {
     SelfId: 11155887461002721254
@@ -181,7 +181,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "lightning_3"
+    FilePartitionName: "lightning_7"
   }
   InstanceHistory {
     SelfId: 9104763274211367444

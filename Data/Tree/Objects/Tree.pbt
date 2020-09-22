@@ -1,6 +1,36 @@
 ﻿Name: "Objects"
 RootId: 16990012671700417463
 Objects {
+  Id: 11309134190704573901
+  Name: "Obstacles3"
+  Transform {
+    Location {
+      X: -2789.88354
+      Y: -2514.21
+      Z: -2.95372
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16990012671700417463
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:forceoff"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Obstacles3_1"
+  }
+}
+Objects {
   Id: 906347794490143655
   Name: "Obstacles"
   Transform {
@@ -95,7 +125,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Obstacles3_1"
+    FilePartitionName: "Obstacles3_2"
   }
 }
 Objects {
@@ -138,7 +168,7 @@ Objects {
       Z: -1000
     }
     Rotation {
-      Yaw: -89.9996796
+      Yaw: -89.9996948
     }
     Scale {
       X: 1
@@ -201,6 +231,56 @@ Objects {
   CoreMesh {
     MeshAsset {
       Id: 16207958580169995642
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 7628499417372069882
+  Name: "Bench Full"
+  Transform {
+    Location {
+      X: -25.9431763
+      Y: -1996.12341
+      Z: -962.518127
+    }
+    Rotation {
+      Pitch: -31.0612488
+      Yaw: 53.9111481
+      Roll: 1.69435862e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16990012671700417463
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 2506680319063479536
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 10329037566292304138
     }
     Teams {
       IsTeamCollisionEnabled: true

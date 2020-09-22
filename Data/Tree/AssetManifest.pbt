@@ -35,15 +35,6 @@ Assets {
   }
 }
 Assets {
-  Id: 15161020496069638493
-  Name: "Swirling Dust VFX"
-  PlatformAssetType: 8
-  PrimaryAsset {
-    AssetType: "VfxBlueprintAssetRef"
-    AssetId: "fxbp_swirling_dust"
-  }
-}
-Assets {
   Id: 14030927042479968384
   Name: "Rain Splash Volume VFX"
   PlatformAssetType: 8
@@ -158,15 +149,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_sphere_002"
-  }
-}
-Assets {
-  Id: 1283691431651859504
-  Name: "Smoke Puff Radial VFX"
-  PlatformAssetType: 8
-  PrimaryAsset {
-    AssetType: "VfxBlueprintAssetRef"
-    AssetId: "fxbp_smoke_puff_radial"
   }
 }
 Assets {
