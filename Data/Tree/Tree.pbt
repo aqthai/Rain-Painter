@@ -1924,10 +1924,10 @@ Objects {
       }
     }
     Text {
-      Label: "To Nenili, also called Water Sprinkler is the Navaho god of Water. He is known to be a trickster, as he causes downpours on days people hope for clear skies or just raining on people for fun, but he truly means no harm, This is the true desert rain god,"
+      Label: "(whoosh)"
       Color {
         R: 0.53
-        G: 0.598476648
+        G: 0.598476529
         B: 1
         A: 1
       }
@@ -2346,7 +2346,7 @@ Objects {
         B: 1
         A: 1
       }
-      Size: 50
+      Size: 40
       Justification {
         Value: "mc:etextjustify:center"
       }

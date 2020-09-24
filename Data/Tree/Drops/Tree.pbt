@@ -27001,7 +27001,7 @@ Objects {
     Location {
       X: 950
       Y: -550
-      Z: -950
+      Z: -916.699
     }
     Rotation {
     }
@@ -30001,7 +30001,7 @@ Objects {
     Location {
       X: 200
       Y: -950
-      Z: -1050
+      Z: -1021.18579
     }
     Rotation {
     }

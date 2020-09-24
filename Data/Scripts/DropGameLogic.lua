@@ -16,9 +16,19 @@ function Tick()
         for i = 3, 0, -1 do
             Task.Wait(1)
             roundUI = World.FindObjectByName("RoundUI")
-            roundUI.text = ""
+            roundUI.text = "To Nenili, also called Water Sprinkler is the Navaho god of Water."
         end
         World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("intro", false)
+        for i = 3, 0, -1 do
+            Task.Wait(1)
+            roundUI = World.FindObjectByName("RoundUI")
+            roundUI.text = "He is known to be a trickster, as he causes downpours on days people hope for clear skies or just raining on people for fun,"
+        end
+        for i = 3, 0, -1 do
+            Task.Wait(1)
+            roundUI = World.FindObjectByName("RoundUI")
+            roundUI.text = "This is the true desert rain god"
+        end
         roundUI.text = ""
     end
     
@@ -164,6 +174,7 @@ function Tick()
         World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("gameOver", false)
         World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("boltStrike", false)
         roundUI.text = ""
+        World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("weedFly", false)
         ResetMap()
     end
 end
