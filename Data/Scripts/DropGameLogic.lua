@@ -9,46 +9,38 @@ local dropFolder = World.FindObjectByName("Drops")
 function Tick()
     Task.Wait(1)
     local dropsLeft = GetDropsLeft()
-    
-    if dropsLeft == 199 then
-        World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("intro", true)
-        World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("weedFly", true)
-        for i = 3, 0, -1 do
+    roundUI = World.FindObjectByName("RoundUI")
+    if dropsLeft == 199 then   
+    	World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("intro", false)
+        for i = 2, 0, -1 do
             Task.Wait(1)
-            roundUI = World.FindObjectByName("RoundUI")
             roundUI.text = "To Nenili, also called Water Sprinkler is the Navaho god of Water."
         end
-        World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("intro", false)
         for i = 3, 0, -1 do
             Task.Wait(1)
-            roundUI = World.FindObjectByName("RoundUI")
             roundUI.text = "He is known to be a trickster, as he causes downpours on days people hope for clear skies or just raining on people for fun,"
         end
-        for i = 3, 0, -1 do
+        for i = 2, 0, -1 do
             Task.Wait(1)
-            roundUI = World.FindObjectByName("RoundUI")
             roundUI.text = "This is the true desert rain god"
         end
         roundUI.text = ""
-    end
-    
-    if dropsLeft == 194 then
         World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("gameStart", true)
         for i = 3, 0, -1 do
             Task.Wait(1)
-            roundUI = World.FindObjectByName("RoundUI")
             roundUI.text = "Rain Painter"
         end
-        World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("gameStart", false)
-        roundUI.text = ""
+        roundUI.text = ""   
+        World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("weedFly", true)
     end
     
     if dropsLeft == 180 then
         World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("boltStrike", true)
+        World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("intro", true)
         for i = 3, 0, -1 do
             Task.Wait(1)
             roundUI = World.FindObjectByName("RoundUI") -- optional warning
-            roundUI.text = "Zap!"
+            roundUI.text= "Zap!"
             if i == 1 then
             	World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("boltStrike2", true)
             end
@@ -63,10 +55,12 @@ function Tick()
         World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("boltStrike", false)
         World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("boltStrike2", false)
         World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("boltStrike3", false)
+        World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("intro", false)
     end
     
     if dropsLeft == 150 then
         World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("boltStrike", true)
+        World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("intro", true)
         for i = 3, 0, -1 do
             Task.Wait(1)
             roundUI = World.FindObjectByName("RoundUI") -- optional warning
@@ -85,10 +79,12 @@ function Tick()
         World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("boltStrike", false)
         World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("boltStrike2", false)
         World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("boltStrike3", false)
+        World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("intro", false)
     end
     
     if dropsLeft == 130 then
         World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("boltStrike", true)
+        World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("intro", true)
         for i = 3, 0, -1 do
             Task.Wait(1)
             roundUI = World.FindObjectByName("RoundUI") -- optional warning
@@ -107,14 +103,14 @@ function Tick()
         World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("boltStrike", false)
         World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("boltStrike2", false)
         World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("boltStrike3", false)
+        World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("intro", false)
     end
     
     if dropsLeft == 100 then
-        World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("boltStrike2", true)
+        World.FindObjectByName("Game Settings"):SetNetworkedCustomProperty("intro", true)
         for i = 3, 0, -1 do
             Task.Wait(1)
             roundUI = World.FindObjectByName("RoundUI") -- optional warning
-            roundUI.text = "Zap!"
         end
         roundUI.text = ""
     end

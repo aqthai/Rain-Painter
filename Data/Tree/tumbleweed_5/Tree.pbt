@@ -1,7 +1,7 @@
 ﻿Name: "tumbleweed_5"
-RootId: 16118834613860108167
+RootId: 12211254652947306228
 Objects {
-  Id: 2039987793624176593
+  Id: 8802099275060452947
   Name: "Rock 03"
   Transform {
     Location {
@@ -20,7 +20,7 @@ Objects {
       Z: 0.818558156
     }
   }
-  ParentId: 16118834613860108167
+  ParentId: 12211254652947306228
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -71,7 +71,7 @@ Objects {
   }
 }
 Objects {
-  Id: 3328554339732781480
+  Id: 7818807993410816451
   Name: "Rock 03"
   Transform {
     Location {
@@ -90,7 +90,7 @@ Objects {
       Z: 0.818558156
     }
   }
-  ParentId: 16118834613860108167
+  ParentId: 12211254652947306228
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -141,7 +141,7 @@ Objects {
   }
 }
 Objects {
-  Id: 4122977710692818913
+  Id: 3331060883442630491
   Name: "Rock 02"
   Transform {
     Location {
@@ -160,7 +160,7 @@ Objects {
       Z: 0.550483
     }
   }
-  ParentId: 16118834613860108167
+  ParentId: 12211254652947306228
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -211,7 +211,7 @@ Objects {
   }
 }
 Objects {
-  Id: 12114900728973286482
+  Id: 7168220013071183370
   Name: "Rock 02"
   Transform {
     Location {
@@ -229,7 +229,7 @@ Objects {
       Z: 0.550483
     }
   }
-  ParentId: 16118834613860108167
+  ParentId: 12211254652947306228
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -280,7 +280,7 @@ Objects {
   }
 }
 Objects {
-  Id: 7467526075752520745
+  Id: 12396071667430606666
   Name: "Rock 03"
   Transform {
     Location {
@@ -299,7 +299,7 @@ Objects {
       Z: 0.847007215
     }
   }
-  ParentId: 16118834613860108167
+  ParentId: 12211254652947306228
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -350,7 +350,7 @@ Objects {
   }
 }
 Objects {
-  Id: 15109848426198476830
+  Id: 16675917197998692566
   Name: "Rock 03"
   Transform {
     Location {
@@ -369,7 +369,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16118834613860108167
+  ParentId: 12211254652947306228
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -420,7 +420,7 @@ Objects {
   }
 }
 Objects {
-  Id: 12494664294626536927
+  Id: 11870496907087287565
   Name: "Rock 03"
   Transform {
     Location {
@@ -439,7 +439,7 @@ Objects {
       Z: 0.966411889
     }
   }
-  ParentId: 16118834613860108167
+  ParentId: 12211254652947306228
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -490,7 +490,7 @@ Objects {
   }
 }
 Objects {
-  Id: 114518250937378314
+  Id: 12821499776844520899
   Name: "Rock 02"
   Transform {
     Location {
@@ -509,7 +509,7 @@ Objects {
       Z: 0.649915516
     }
   }
-  ParentId: 16118834613860108167
+  ParentId: 12211254652947306228
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -560,7 +560,7 @@ Objects {
   }
 }
 Objects {
-  Id: 10275775403179534772
+  Id: 1833068611490338907
   Name: "Rock 02"
   Transform {
     Location {
@@ -579,7 +579,7 @@ Objects {
       Z: 0.649915516
     }
   }
-  ParentId: 16118834613860108167
+  ParentId: 12211254652947306228
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -630,7 +630,7 @@ Objects {
   }
 }
 Objects {
-  Id: 1940009098081699575
+  Id: 14407508149769857789
   Name: "Rock 03"
   Transform {
     Location {
@@ -649,7 +649,7 @@ Objects {
       Z: 0.966411889
     }
   }
-  ParentId: 16118834613860108167
+  ParentId: 12211254652947306228
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -700,7 +700,7 @@ Objects {
   }
 }
 Objects {
-  Id: 1767820872761113205
+  Id: 7068837460055562663
   Name: "Rock 03"
   Transform {
     Location {
@@ -719,7 +719,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16118834613860108167
+  ParentId: 12211254652947306228
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -770,7 +770,7 @@ Objects {
   }
 }
 Objects {
-  Id: 11960582008748497370
+  Id: 12205813292655236193
   Name: "Rock 03"
   Transform {
     Location {
@@ -787,7 +787,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16118834613860108167
+  ParentId: 12211254652947306228
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -838,7 +838,7 @@ Objects {
   }
 }
 Objects {
-  Id: 9706314941244652450
+  Id: 2631141530921962748
   Name: "Rock 03"
   Transform {
     Location {
@@ -857,7 +857,7 @@ Objects {
       Z: 0.966411889
     }
   }
-  ParentId: 16118834613860108167
+  ParentId: 12211254652947306228
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -908,7 +908,7 @@ Objects {
   }
 }
 Objects {
-  Id: 8308355469763515241
+  Id: 6922148331227183754
   Name: "Rock 02"
   Transform {
     Location {
@@ -927,7 +927,7 @@ Objects {
       Z: 0.649915516
     }
   }
-  ParentId: 16118834613860108167
+  ParentId: 12211254652947306228
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -978,7 +978,7 @@ Objects {
   }
 }
 Objects {
-  Id: 9874349412999945697
+  Id: 5589806902109547340
   Name: "Rock 02"
   Transform {
     Location {
@@ -997,7 +997,7 @@ Objects {
       Z: 0.649915516
     }
   }
-  ParentId: 16118834613860108167
+  ParentId: 12211254652947306228
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1048,7 +1048,7 @@ Objects {
   }
 }
 Objects {
-  Id: 2232460990597133026
+  Id: 16708121259992055605
   Name: "Rock 03"
   Transform {
     Location {
@@ -1067,7 +1067,7 @@ Objects {
       Z: 0.966411889
     }
   }
-  ParentId: 16118834613860108167
+  ParentId: 12211254652947306228
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1118,7 +1118,7 @@ Objects {
   }
 }
 Objects {
-  Id: 8575282574993639750
+  Id: 16125336058808239050
   Name: "Rock 03"
   Transform {
     Location {
@@ -1134,7 +1134,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16118834613860108167
+  ParentId: 12211254652947306228
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"

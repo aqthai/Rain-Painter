@@ -1,6 +1,44 @@
 ﻿Name: "Objects"
 RootId: 16990012671700417463
 Objects {
+  Id: 8730541068605683880
+  Name: "Obstacles"
+  Transform {
+    Location {
+      X: 3800
+      Y: 4800
+      Z: 50
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16990012671700417463
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:GameSettings"
+      ObjectReference {
+        SelfId: 16668152101245738767
+      }
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:forceoff"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Obstacles"
+  }
+}
+Objects {
   Id: 930134236317004407
   Name: "Bush 02"
   Transform {
@@ -1076,7 +1114,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Obstacles"
+    FilePartitionName: "Obstacles_1"
   }
 }
 Objects {
@@ -1166,7 +1204,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Obstacles_1"
+    FilePartitionName: "Obstacles_2"
   }
 }
 Objects {
@@ -1175,16 +1213,16 @@ Objects {
   Transform {
     Location {
       X: -100
-      Y: -2700
+      Y: -2712.38477
       Z: -1000
     }
     Rotation {
-      Yaw: -89.9996948
+      Yaw: -83.6079102
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 2.5
+      X: 0.996016741
+      Y: 0.996016741
+      Z: 2.49004245
     }
   }
   ParentId: 16990012671700417463
@@ -1222,7 +1260,8 @@ Objects {
   Name: "Bone Human Skull Pile 01"
   Transform {
     Location {
-      Y: -3000
+      Y: -3269.15356
+      Z: 8.0355835
     }
     Rotation {
     }
@@ -1310,12 +1349,12 @@ Objects {
   Transform {
     Location {
       X: -150
-      Y: -2150
-      Z: -950
+      Y: -2214.90381
+      Z: -862.038574
     }
     Rotation {
       Pitch: -29.9369812
-      Yaw: 25.5750523
+      Yaw: 25.5750141
       Roll: -1.49160767
     }
     Scale {

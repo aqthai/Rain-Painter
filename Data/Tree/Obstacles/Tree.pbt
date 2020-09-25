@@ -1,7 +1,7 @@
 ﻿Name: "Obstacles"
-RootId: 906347794490143655
+RootId: 8730541068605683880
 Objects {
-  Id: 1241520106167769302
+  Id: 15848123629248483352
   Name: "DisplayWeeds"
   Transform {
     Location {
@@ -16,7 +16,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 906347794490143655
+  ParentId: 8730541068605683880
   UnregisteredParameters {
     Overrides {
       Name: "cs:GameSettings"
@@ -39,7 +39,7 @@ Objects {
   }
 }
 Objects {
-  Id: 2020407241725209463
+  Id: 13424171508318841173
   Name: "SpinObject"
   Transform {
     Location {
@@ -52,7 +52,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 906347794490143655
+  ParentId: 8730541068605683880
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -67,7 +67,7 @@ Objects {
   }
 }
 Objects {
-  Id: 11220795648795800123
+  Id: 17441915259392019301
   Name: "tumbleweed"
   Transform {
     Location {
@@ -83,7 +83,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 906347794490143655
+  ParentId: 8730541068605683880
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -104,7 +104,7 @@ Objects {
   }
 }
 Objects {
-  Id: 12211254652947306228
+  Id: 9141776917366844290
   Name: "tumbleweed"
   Transform {
     Location {
@@ -120,7 +120,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 906347794490143655
+  ParentId: 8730541068605683880
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -141,7 +141,7 @@ Objects {
   }
 }
 Objects {
-  Id: 1020333228525699600
+  Id: 11503522421917177334
   Name: "tumbleweed"
   Transform {
     Location {
@@ -157,7 +157,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 906347794490143655
+  ParentId: 8730541068605683880
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -178,7 +178,7 @@ Objects {
   }
 }
 Objects {
-  Id: 2468441508927806843
+  Id: 8493349406588121592
   Name: "tumbleweed"
   Transform {
     Location {
@@ -193,7 +193,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 906347794490143655
+  ParentId: 8730541068605683880
   UnregisteredParameters {
     Overrides {
       Name: "cs:GameSettings"

@@ -149,8 +149,9 @@ Objects {
   Name: "lightning"
   Transform {
     Location {
-      X: -750
+      X: -898.765198
       Y: -2200
+      Z: 246.781097
     }
     Rotation {
       Pitch: 4.99972534
@@ -158,9 +159,9 @@ Objects {
       Roll: 129.998917
     }
     Scale {
-      X: 1.75
-      Y: 1.75
-      Z: 1.75
+      X: 2.83088684
+      Y: 2.83088684
+      Z: 2.83088684
     }
   }
   ParentId: 11293690457948583162

@@ -23,15 +23,16 @@ Objects {
   ChildIds: 10883757058697850590
   ChildIds: 16381951966790113691
   ChildIds: 9973674903851485459
+  ChildIds: 7023636690058435368
   ChildIds: 6438125948860681886
-  ChildIds: 11684339653436469903
+  ChildIds: 5184226666223903122
   ChildIds: 8014035117834832800
-  ChildIds: 16388236777638679661
   ChildIds: 17822323184263680977
   ChildIds: 11293690457948583162
   ChildIds: 1250057767017623878
   ChildIds: 10261987069843347996
   ChildIds: 17125447521315056500
+  ChildIds: 3618649080835565714
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -41,6 +42,36 @@ Objects {
     Value: "mc:evisibilitysetting:forceon"
   }
   Folder {
+  }
+}
+Objects {
+  Id: 3618649080835565714
+  Name: "Hearts"
+  Transform {
+    Location {
+      X: 1900
+      Y: 5150
+      Z: 50
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Hearts"
   }
 }
 Objects {
@@ -200,51 +231,6 @@ Objects {
   Folder {
     IsFilePartition: true
     FilePartitionName: "Bolts"
-  }
-}
-Objects {
-  Id: 16388236777638679661
-  Name: "Boss"
-  Transform {
-    Location {
-      X: 150
-      Y: 2050
-      Z: 500
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "cs:GameSettings"
-      ObjectReference {
-        SelfId: 16668152101245738767
-      }
-    }
-    Overrides {
-      Name: "cs:GameSettings_0"
-      ObjectReference {
-        SelfId: 16668152101245738767
-      }
-    }
-  }
-  Lifespan: 1
-  WantsNetworking: true
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:forceoff"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:forceoff"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Boss"
   }
 }
 Objects {
@@ -1698,9 +1684,14 @@ Objects {
   }
 }
 Objects {
-  Id: 11684339653436469903
+  Id: 5184226666223903122
   Name: "Sky Overcast 01"
   Transform {
+    Location {
+      X: -900
+      Y: -1900
+      Z: -1850
+    }
     Scale {
       X: 1
       Y: 1
@@ -1708,142 +1699,496 @@ Objects {
     }
   }
   ParentId: 4781671109827199097
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 3795687685042435289
-      value {
-        Overrides {
-          Name: "bp:Light Color"
-          Color {
-            R: 1
-            G: 0.32
-            B: 0.779337645
-            A: 1
-          }
-        }
-        Overrides {
-          Name: "bp:Intensity"
-          Float: 0.5
-        }
-        Overrides {
-          Name: "bp:Size"
-          Float: 3.8766706
-        }
+  ChildIds: 7415876173623351589
+  ChildIds: 1926290879981578715
+  ChildIds: 17555923973448024026
+  ChildIds: 6468323625146072261
+  ChildIds: 11714722631154139200
+  UnregisteredParameters {
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:forceoff"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 5184226666223903122
+    SubobjectId: 7630610834896796816
+    InstanceId: 11684339653436469903
+    TemplateId: 244322585695004704
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 11714722631154139200
+  Name: "DisplayEncounter"
+  Transform {
+    Location {
+      X: 1050
+      Y: 3950
+      Z: 2750
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5184226666223903122
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:GameSettings"
+      ObjectReference {
+        SelfId: 16668152101245738767
       }
     }
-    ParameterOverrideMap {
-      key: 5259375991762797607
-      value {
-        Overrides {
-          Name: "bp:Cloud Wisp Color"
-          Color {
-            R: 0.43205303
-            G: 0.329999983
-            B: 1
-            A: 1
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -200
-            Y: -300
-            Z: 750
-          }
-        }
-        Overrides {
-          Name: "bp:Brightness"
-          Float: 0.359418333
-        }
-        Overrides {
-          Name: "bp:Overall Tint"
-          Color {
-            R: 0.371992141
-            G: 0.477134079
-            B: 0.604166687
-            A: 1
-          }
-        }
-        Overrides {
-          Name: "bp:Cloud Color"
-          Color {
-            R: 0.186217651
-            G: 0.123643667
-            B: 0.276041657
-            A: 1
-          }
-        }
-        Overrides {
-          Name: "bp:Cloud Lighting Brightness"
-          Float: 0.5
-        }
-        Overrides {
-          Name: "bp:Cloud Opacity"
-          Float: 1
-        }
-        Overrides {
-          Name: "bp:Cloud Wisp Speed"
-          Float: 0.739392698
-        }
-        Overrides {
-          Name: "bp:High Cloud Color"
-          Color {
-            R: 0.0577503815
-            G: 0.0586031601
-            B: 0.192708328
-            A: 1
-          }
-        }
-        Overrides {
-          Name: "bp:High Cloud Opacity"
-          Float: 0.809353113
-        }
-        Overrides {
-          Name: "bp:High Cloud Brightness"
-          Float: 0.739392698
-        }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 11825430795616256232
+    }
+  }
+}
+Objects {
+  Id: 6468323625146072261
+  Name: "Environment Fog Default VFX"
+  Transform {
+    Location {
+      X: -706.855103
+      Y: -4824.10742
+      Z: -281.147766
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5184226666223903122
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Color"
+      Color {
+        R: 0.536458313
+        G: 0.536458313
+        B: 0.536458313
+        A: 1
       }
     }
-    ParameterOverrideMap {
-      key: 7630610834896796816
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Sky Overcast 01"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -900
-            Y: -1900
-            Z: -1850
-          }
-        }
+    Overrides {
+      Name: "bp:Falloff"
+      Float: 0.5
+    }
+    Overrides {
+      Name: "bp:Opacity"
+      Float: 1
+    }
+    Overrides {
+      Name: "bp:Volumetric Fog"
+      Bool: false
+    }
+    Overrides {
+      Name: "bp:Fog Density"
+      Float: 0.5
+    }
+    Overrides {
+      Name: "bp:Start"
+      Float: 5000
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 2224571462023946700
+    }
+  }
+  InstanceHistory {
+    SelfId: 6468323625146072261
+    SubobjectId: 8634359941152252359
+    InstanceId: 11684339653436469903
+    TemplateId: 244322585695004704
+  }
+}
+Objects {
+  Id: 17555923973448024026
+  Name: "Skylight"
+  Transform {
+    Location {
+      X: 250
+      Y: 300
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5184226666223903122
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Index"
+      Int: 13
+    }
+    Overrides {
+      Name: "bp:Intensity"
+      Float: 0.5
+    }
+    Overrides {
+      Name: "bp:Ambient Image"
+      Enum {
+        Value: "mc:eambientcubemapssmall:9"
       }
     }
-    ParameterOverrideMap {
-      key: 15975492017228948184
-      value {
-        Overrides {
-          Name: "bp:Tint Color"
-          Color {
-            R: 0.435468584
-            G: 0.291205496
-            B: 0.494791657
-            A: 1
-          }
-        }
-        Overrides {
-          Name: "bp:Ambient Image"
-          Enum {
-            Value: "mc:eambientcubemapssmall:9"
-          }
-        }
+    Overrides {
+      Name: "bp:Blend Amount"
+      Float: 0.4
+    }
+    Overrides {
+      Name: "bp:Tint Color"
+      Color {
+        R: 0.435468584
+        G: 0.291205496
+        B: 0.494791657
+        A: 1
       }
     }
-    TemplateAsset {
-      Id: 244322585695004704
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 11515840070784317904
     }
+  }
+  InstanceHistory {
+    SelfId: 17555923973448024026
+    SubobjectId: 15975492017228948184
+    InstanceId: 11684339653436469903
+    TemplateId: 244322585695004704
+  }
+}
+Objects {
+  Id: 1926290879981578715
+  Name: "Sun Light"
+  Transform {
+    Location {
+      X: -50
+      Z: 300
+    }
+    Rotation {
+      Pitch: -31.4812546
+      Yaw: -0.231353223
+      Roll: -12.5778255
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5184226666223903122
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Intensity"
+      Float: 0.5
+    }
+    Overrides {
+      Name: "bp:Light Color"
+      Color {
+        R: 1
+        G: 0.32
+        B: 0.779337645
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Light Shaft Bloom"
+      Bool: false
+    }
+    Overrides {
+      Name: "bp:Light Shaft Bloom Scale"
+      Float: 2
+    }
+    Overrides {
+      Name: "bp:Light Shaft Bloom Threshold"
+      Float: 0.5
+    }
+    Overrides {
+      Name: "bp:Light Shaft Bloom Tint"
+      Color {
+        R: 0.53
+        G: 0.87860918
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Use Temperature"
+      Bool: false
+    }
+    Overrides {
+      Name: "bp:Sun Disc Color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Size"
+      Float: 3.8766706
+    }
+    Overrides {
+      Name: "bp:Shape"
+      Enum {
+        Value: "mc:esundiscshapes:1"
+      }
+    }
+    Overrides {
+      Name: "bp:Draw Sun"
+      Bool: true
+    }
+    Overrides {
+      Name: "bp:Cast Shadows"
+      Bool: true
+    }
+    Overrides {
+      Name: "bp:Cast Volumetric Shadows"
+      Bool: false
+    }
+    Overrides {
+      Name: "bp:Indirect Lighting Intensity"
+      Float: 1
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 16910278292812118833
+    }
+  }
+  InstanceHistory {
+    SelfId: 1926290879981578715
+    SubobjectId: 3795687685042435289
+    InstanceId: 11684339653436469903
+    TemplateId: 244322585695004704
+  }
+}
+Objects {
+  Id: 7415876173623351589
+  Name: "Sky Dome"
+  Transform {
+    Location {
+      X: -200
+      Y: -300
+      Z: 750
+    }
+    Rotation {
+      Yaw: 70.7263489
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5184226666223903122
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Cloud Shape"
+      Int: 1
+    }
+    Overrides {
+      Name: "bp:Horizon Color"
+      Color {
+        R: 0.229166672
+        G: 0.229166672
+        B: 0.229166672
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Zenith Color"
+      Color {
+        R: 0.270833343
+        G: 0.267228216
+        B: 0.262708336
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Cloud Color"
+      Color {
+        R: 0.186217651
+        G: 0.123643667
+        B: 0.276041657
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Cloud Wisp Color"
+      Color {
+        R: 0.43205303
+        G: 0.329999983
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Use Sun Color for Cloud Color"
+      Bool: false
+    }
+    Overrides {
+      Name: "bp:Cloud Rim Brightness"
+      Float: 40
+    }
+    Overrides {
+      Name: "bp:Cloud Detail Brightness"
+      Float: 2
+    }
+    Overrides {
+      Name: "bp:Background Clouds"
+      Bool: false
+    }
+    Overrides {
+      Name: "bp:Cloud Opacity"
+      Float: 1
+    }
+    Overrides {
+      Name: "bp:Haze Color"
+      Color {
+        R: 0.142361119
+        G: 0.161837757
+        B: 0.166666672
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Cloud Ambient Color"
+      Color {
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Sky Influence On Clouds"
+      Float: 1
+    }
+    Overrides {
+      Name: "bp:High Cloud Color"
+      Color {
+        R: 0.0577503815
+        G: 0.0586031601
+        B: 0.192708328
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Haze Falloff"
+      Float: 25
+    }
+    Overrides {
+      Name: "bp:High Cloud Opacity"
+      Float: 0.809353113
+    }
+    Overrides {
+      Name: "bp:High Cloud Speed"
+      Float: 0.15
+    }
+    Overrides {
+      Name: "bp:High Cloud Brightness"
+      Float: 0.739392698
+    }
+    Overrides {
+      Name: "bp:High Cloud Index"
+      Int: 1
+    }
+    Overrides {
+      Name: "bp:High Cloud Noise Scale"
+      Float: 0.2
+    }
+    Overrides {
+      Name: "bp:Cloud Wisp Speed"
+      Float: 0.739392698
+    }
+    Overrides {
+      Name: "bp:Cloud Ambient Brightness"
+      Float: 1
+    }
+    Overrides {
+      Name: "bp:Cloud Wisp Opacity"
+      Float: 1
+    }
+    Overrides {
+      Name: "bp:Brightness"
+      Float: 0.359418333
+    }
+    Overrides {
+      Name: "bp:Overall Tint"
+      Color {
+        R: 0.371992141
+        G: 0.477134079
+        B: 0.604166687
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Cloud Lighting Brightness"
+      Float: 0.5
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 7887238662729938253
+    }
+  }
+  InstanceHistory {
+    SelfId: 7415876173623351589
+    SubobjectId: 5259375991762797607
+    InstanceId: 11684339653436469903
+    TemplateId: 244322585695004704
   }
 }
 Objects {
@@ -1959,7 +2304,6 @@ Objects {
       }
     }
     Text {
-      Label: "(whoosh)"
       Color {
         R: 0.53
         G: 0.598476529
@@ -2046,22 +2390,22 @@ Objects {
   Control {
     Width: 500
     Height: 60
-    UIX: 1000
-    UIY: 200
+    UIX: 1200
+    UIY: 50
     RenderTransformPivot {
       Anchor {
         Value: "mc:euianchor:middlecenter"
       }
     }
     Text {
-      Label: "Press G to hoverboard"
+      Label: "Resources                                                                        1 National Museum of Women in the Arts.                 2 Zolbrod, Paul G. (1984), Din\303\251 Bahane\'.                    3 Smithsonian Institute.                                                    Press G to hoverboard"
       Color {
         R: 0.25
         G: 0.821191967
         B: 1
         A: 1
       }
-      Size: 50
+      Size: 20
       Justification {
         Value: "mc:etextjustify:left"
       }
@@ -2298,6 +2642,43 @@ Objects {
   }
 }
 Objects {
+  Id: 7023636690058435368
+  Name: "lil boy"
+  Transform {
+    Location {
+      X: 2900
+      Y: 850
+      Z: -1350
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "lil boy"
+  }
+  InstanceHistory {
+    SelfId: 2806762276859203248
+    SubobjectId: 8322036145727026562
+    InstanceId: 15217094909557100707
+    TemplateId: 16789965952170625842
+    WasRoot: true
+  }
+}
+Objects {
   Id: 9973674903851485459
   Name: "UI Container"
   Transform {
@@ -2313,6 +2694,7 @@ Objects {
   }
   ParentId: 4781671109827199097
   ChildIds: 3792366307767399550
+  ChildIds: 12637115717651697905
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -2327,6 +2709,65 @@ Objects {
       }
     }
     Canvas {
+    }
+    AnchorLayout {
+      SelfAnchor {
+        Anchor {
+          Value: "mc:euianchor:topleft"
+        }
+      }
+      TargetAnchor {
+        Anchor {
+          Value: "mc:euianchor:topleft"
+        }
+      }
+    }
+  }
+}
+Objects {
+  Id: 12637115717651697905
+  Name: "LoreUI"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 9973674903851485459
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Control {
+    Width: 1000
+    Height: 60
+    UIX: 400
+    UIY: 300
+    RenderTransformPivot {
+      Anchor {
+        Value: "mc:euianchor:middlecenter"
+      }
+    }
+    Text {
+      Color {
+        R: 0.30516535
+        G: 1
+        B: 0.139999986
+        A: 1
+      }
+      Size: 20
+      Justification {
+        Value: "mc:etextjustify:left"
+      }
+      AutoWrapText: true
     }
     AnchorLayout {
       SelfAnchor {
@@ -2519,6 +2960,7 @@ Objects {
   ChildIds: 781464779876472604
   UnregisteredParameters {
   }
+  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2553,6 +2995,7 @@ Objects {
       Float: 7.4199872
     }
   }
+  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2588,6 +3031,7 @@ Objects {
     }
   }
   ParentId: 10005074784157121906
+  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2637,6 +3081,7 @@ Objects {
       Float: 6.01474476
     }
   }
+  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2682,6 +3127,7 @@ Objects {
       Float: 0
     }
   }
+  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2731,6 +3177,7 @@ Objects {
       Float: 26.4755669
     }
   }
+  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2780,6 +3227,7 @@ Objects {
       Float: 10
     }
   }
+  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2815,6 +3263,7 @@ Objects {
     }
   }
   ParentId: 10005074784157121906
+  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2850,6 +3299,7 @@ Objects {
     }
   }
   ParentId: 10005074784157121906
+  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2887,6 +3337,7 @@ Objects {
     }
   }
   ParentId: 10005074784157121906
+  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2923,6 +3374,7 @@ Objects {
     }
   }
   ParentId: 10005074784157121906
+  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2962,6 +3414,7 @@ Objects {
     }
   }
   ParentId: 10005074784157121906
+  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3000,6 +3453,7 @@ Objects {
     }
   }
   ParentId: 10005074784157121906
+  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3036,6 +3490,7 @@ Objects {
     }
   }
   ParentId: 10005074784157121906
+  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3072,6 +3527,7 @@ Objects {
     }
   }
   ParentId: 10005074784157121906
+  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3121,6 +3577,7 @@ Objects {
       Float: 50
     }
   }
+  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3224,6 +3681,7 @@ Objects {
       }
     }
   }
+  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3251,6 +3709,7 @@ Objects {
     }
   }
   ParentId: 10005074784157121906
+  ChildIds: 8654249186863146980
   UnregisteredParameters {
     Overrides {
       Name: "bp:Index"
@@ -3303,15 +3762,53 @@ Objects {
       }
     }
   }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:forceoff"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 11515840070784317904
+    }
+  }
+}
+Objects {
+  Id: 8654249186863146980
+  Name: "DisplayPhrase"
+  Transform {
+    Location {
+      Z: -700
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7155168770677928712
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:GameSettings"
+      ObjectReference {
+        SelfId: 16668152101245738767
+      }
+    }
+  }
+  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  Blueprint {
-    BlueprintAsset {
-      Id: 11515840070784317904
+  Script {
+    ScriptAsset {
+      Id: 3631687257171605320
     }
   }
 }
@@ -3466,6 +3963,7 @@ Objects {
       }
     }
   }
+  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

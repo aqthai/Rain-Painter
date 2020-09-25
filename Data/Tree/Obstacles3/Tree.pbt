@@ -95,7 +95,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "tumbleweed_4"
+    FilePartitionName: "tumbleweed_12"
   }
   InstanceHistory {
     SelfId: 2468441508927806843
@@ -132,7 +132,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "tumbleweed_5"
+    FilePartitionName: "tumbleweed_13"
   }
   InstanceHistory {
     SelfId: 2468441508927806843
@@ -169,7 +169,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "tumbleweed_6"
+    FilePartitionName: "tumbleweed_14"
   }
   InstanceHistory {
     SelfId: 2468441508927806843
