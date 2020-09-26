@@ -1,6 +1,607 @@
 ﻿Name: "Objects"
 RootId: 16990012671700417463
 Objects {
+  Id: 12274456288256738489
+  Name: "Rock Pile 002"
+  Transform {
+    Location {
+      X: -2975
+      Y: -2750
+      Z: 25
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16990012671700417463
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11443786575812268026
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 11459382200073939710
+  Name: "Bush 01"
+  Transform {
+    Location {
+      X: -3050
+      Y: -250
+      Z: 25
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16990012671700417463
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Nature_Leaves:id"
+      AssetReference {
+        Id: 8971007613765797971
+      }
+    }
+    Overrides {
+      Name: "ma:Nature_Leaves:color"
+      Color {
+        R: 0.212781414
+        G: 0.269999981
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 153392749392475039
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 9072709451878268058
+  Name: "Rock Pile 002"
+  Transform {
+    Location {
+      X: -700
+      Y: 4000
+      Z: 25
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16990012671700417463
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11443786575812268026
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 17496843549084664687
+  Name: "Rock Pile 002"
+  Transform {
+    Location {
+      X: 525
+      Y: 4250
+      Z: 25
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16990012671700417463
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11443786575812268026
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 8799534340517584784
+  Name: "Rock Pile 002"
+  Transform {
+    Location {
+      X: 2075
+      Y: 3325
+      Z: 25
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16990012671700417463
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11443786575812268026
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 13653670091146878083
+  Name: "Rock Pile 002"
+  Transform {
+    Location {
+      X: 2675
+      Y: 2475
+      Z: 25
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16990012671700417463
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11443786575812268026
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 4929267466723299125
+  Name: "Bush 01"
+  Transform {
+    Location {
+      X: -1625
+      Y: 3325
+      Z: 25
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16990012671700417463
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Nature_Leaves:id"
+      AssetReference {
+        Id: 8971007613765797971
+      }
+    }
+    Overrides {
+      Name: "ma:Nature_Leaves:color"
+      Color {
+        R: 0.212781414
+        G: 0.269999981
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 153392749392475039
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 11348086077427567669
+  Name: "Rock 03"
+  Transform {
+    Location {
+      X: -5200
+      Y: 3775
+      Z: 100
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16990012671700417463
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.300543845
+        G: 0.215860531
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 7100994984040296030
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 16344389398391084373
+  Name: "Rock 03"
+  Transform {
+    Location {
+      X: 4225
+      Y: 2900
+      Z: 100
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16990012671700417463
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.300543845
+        G: 0.215860531
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 7100994984040296030
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 4642211641155260795
+  Name: "Bush 01"
+  Transform {
+    Location {
+      X: 4200
+      Y: 5275
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16990012671700417463
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Nature_Leaves:id"
+      AssetReference {
+        Id: 15485650350471283724
+      }
+    }
+    Overrides {
+      Name: "ma:Nature_Leaves:color"
+      Color {
+        G: 0.590000033
+        B: 0.0507948436
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 153392749392475039
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 14334030791228601917
+  Name: "Bush 01"
+  Transform {
+    Location {
+      X: 1400
+      Y: 4925
+      Z: 25
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16990012671700417463
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Nature_Leaves:id"
+      AssetReference {
+        Id: 8971007613765797971
+      }
+    }
+    Overrides {
+      Name: "ma:Nature_Leaves:color"
+      Color {
+        R: 0.212781414
+        G: 0.269999981
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 153392749392475039
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 1923318555840376122
+  Name: "Bush 01"
+  Transform {
+    Location {
+      X: -275
+      Y: 5150
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16990012671700417463
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Nature_Leaves:id"
+      AssetReference {
+        Id: 15485650350471283724
+      }
+    }
+    Overrides {
+      Name: "ma:Nature_Leaves:color"
+      Color {
+        G: 0.590000033
+        B: 0.0507948436
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 153392749392475039
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
   Id: 8730541068605683880
   Name: "Obstacles"
   Transform {
@@ -165,6 +766,7 @@ Objects {
     Location {
       X: 5550
       Y: -3100
+      Z: 25
     }
     Rotation {
     }
@@ -225,6 +827,7 @@ Objects {
     Location {
       X: 1450
       Y: -5550
+      Z: 25
     }
     Rotation {
     }
@@ -285,6 +888,7 @@ Objects {
     Location {
       X: -1950
       Y: -4100
+      Z: 50
     }
     Rotation {
     }
@@ -1002,6 +1606,7 @@ Objects {
     Location {
       X: 4350
       Y: -2600
+      Z: 50
     }
     Rotation {
     }
@@ -1260,8 +1865,9 @@ Objects {
   Name: "Bone Human Skull Pile 01"
   Transform {
     Location {
-      Y: -3269.15356
-      Z: 8.0355835
+      X: -625
+      Y: -3475
+      Z: 25
     }
     Rotation {
     }
@@ -1400,7 +2006,7 @@ Objects {
     Location {
       X: 5800
       Y: 300
-      Z: 150
+      Z: 200
     }
     Rotation {
     }
@@ -1449,7 +2055,7 @@ Objects {
     Location {
       X: -2800
       Y: -1950
-      Z: 150
+      Z: 200
     }
     Rotation {
     }
@@ -1497,7 +2103,8 @@ Objects {
   Transform {
     Location {
       X: 1350
-      Y: -3100
+      Y: -3350
+      Z: 25
     }
     Rotation {
     }
@@ -1543,6 +2150,7 @@ Objects {
     Location {
       X: -700
       Y: -3900
+      Z: 25
     }
     Rotation {
     }
@@ -1588,6 +2196,7 @@ Objects {
     Location {
       X: 3150
       Y: 900
+      Z: 25
     }
     Rotation {
     }
@@ -1633,6 +2242,7 @@ Objects {
     Location {
       X: -2600
       Y: -500
+      Z: 25
     }
     Rotation {
     }
@@ -1724,6 +2334,7 @@ Objects {
     Location {
       X: 5950
       Y: 1800
+      Z: 50
     }
     Rotation {
     }
@@ -2345,6 +2956,7 @@ Objects {
     Location {
       X: -2700
       Y: 1000
+      Z: 25
     }
     Rotation {
     }
@@ -2399,6 +3011,7 @@ Objects {
     Location {
       X: 2100
       Y: 5800
+      Z: 25
     }
     Rotation {
     }
@@ -2452,7 +3065,8 @@ Objects {
   Transform {
     Location {
       X: 5800
-      Y: -5200
+      Y: -5325
+      Z: 25
     }
     Rotation {
     }
@@ -2507,6 +3121,7 @@ Objects {
     Location {
       X: 2450
       Y: 2750
+      Z: 25
     }
     Rotation {
     }
@@ -2561,6 +3176,7 @@ Objects {
     Location {
       X: 3100
       Y: -450
+      Z: 25
     }
     Rotation {
     }
@@ -2615,6 +3231,7 @@ Objects {
     Location {
       X: 2450
       Y: -2000
+      Z: 25
     }
     Rotation {
     }
@@ -2669,6 +3286,7 @@ Objects {
     Location {
       X: -1950
       Y: -2500
+      Z: 25
     }
     Rotation {
     }
@@ -2723,7 +3341,7 @@ Objects {
     Location {
       X: 1600
       Y: 4350
-      Z: 50
+      Z: 25
     }
     Rotation {
     }
@@ -2778,7 +3396,7 @@ Objects {
     Location {
       X: -2350
       Y: 2850
-      Z: 50
+      Z: 25
     }
     Rotation {
     }
@@ -2833,6 +3451,7 @@ Objects {
     Location {
       X: -1950
       Y: 4350
+      Z: 25
     }
     Rotation {
     }
@@ -2893,6 +3512,7 @@ Objects {
     Location {
       X: -5450
       Y: -3600
+      Z: 25
     }
     Rotation {
     }
@@ -2953,6 +3573,7 @@ Objects {
     Location {
       X: -5300
       Y: -5500
+      Z: 25
     }
     Rotation {
     }
@@ -3013,6 +3634,7 @@ Objects {
     Location {
       X: 5550
       Y: -4050
+      Z: 25
     }
     Rotation {
     }
@@ -3073,6 +3695,7 @@ Objects {
     Location {
       X: 3750
       Y: -4350
+      Z: 25
     }
     Rotation {
     }
@@ -3133,6 +3756,7 @@ Objects {
     Location {
       X: 4800
       Y: 4150
+      Z: 25
     }
     Rotation {
     }
@@ -3193,6 +3817,7 @@ Objects {
     Location {
       X: 3350
       Y: 1200
+      Z: 25
     }
     Rotation {
     }
@@ -3253,6 +3878,7 @@ Objects {
     Location {
       X: 3950
       Y: -1000
+      Z: 25
     }
     Rotation {
     }
@@ -3313,6 +3939,7 @@ Objects {
     Location {
       X: 2200
       Y: -4550
+      Z: 25
     }
     Rotation {
     }
@@ -3373,6 +4000,7 @@ Objects {
     Location {
       X: -700
       Y: -4550
+      Z: 25
     }
     Rotation {
     }
@@ -3433,6 +4061,7 @@ Objects {
     Location {
       X: -4050
       Y: -3450
+      Z: 25
     }
     Rotation {
     }
@@ -3493,6 +4122,7 @@ Objects {
     Location {
       X: -3000
       Y: -4950
+      Z: 25
     }
     Rotation {
     }
@@ -3553,6 +4183,7 @@ Objects {
     Location {
       X: -5150
       Y: 2350
+      Z: 25
     }
     Rotation {
     }
@@ -3613,6 +4244,7 @@ Objects {
     Location {
       X: -3750
       Y: 3650
+      Z: 25
     }
     Rotation {
     }
@@ -3673,6 +4305,7 @@ Objects {
     Location {
       X: -1000
       Y: -5750
+      Z: 25
     }
     Rotation {
     }
@@ -3733,6 +4366,7 @@ Objects {
     Location {
       X: 5600
       Y: -850
+      Z: 25
     }
     Rotation {
     }
@@ -3793,6 +4427,7 @@ Objects {
     Location {
       X: 250
       Y: -3400
+      Z: 25
     }
     Rotation {
     }
@@ -3853,6 +4488,7 @@ Objects {
     Location {
       X: -5200
       Y: -1050
+      Z: 25
     }
     Rotation {
     }
@@ -3913,6 +4549,7 @@ Objects {
     Location {
       X: -4750
       Y: 1250
+      Z: 25
     }
     Rotation {
     }
@@ -3973,6 +4610,7 @@ Objects {
     Location {
       X: -2550
       Y: 1900
+      Z: 25
     }
     Rotation {
     }
@@ -4033,6 +4671,7 @@ Objects {
     Location {
       X: 4900
       Y: 1250
+      Z: 25
     }
     Rotation {
     }

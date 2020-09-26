@@ -5,9 +5,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 1900
-      Y: 5150
-      Z: 50
+      X: 1525
+      Y: 5800
     }
     Rotation {
     }
@@ -382,7 +381,6 @@ Objects {
     Location {
       X: 1050
       Y: 4200
-      Z: 50
     }
     Rotation {
     }
@@ -755,9 +753,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -100
-      Y: 2950
-      Z: -800
+      X: 4450
+      Y: 4900
     }
     Rotation {
     }
@@ -1130,9 +1127,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -350
-      Y: 2700
-      Z: -800
+      X: 4900
+      Y: 2200
     }
     Rotation {
     }
@@ -1505,9 +1501,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -350
-      Y: 2350
-      Z: -950
+      X: 3625
+      Y: 1825
     }
     Rotation {
     }
@@ -1880,9 +1875,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 500
-      Y: 3050
-      Z: -800
+      X: -2150
+      Y: 5100
     }
     Rotation {
     }
@@ -2256,8 +2250,7 @@ Objects {
   Transform {
     Location {
       X: 200
-      Y: 3050
-      Z: -850
+      Y: 4150
     }
     Rotation {
     }
@@ -2630,9 +2623,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 600
-      Y: 2800
-      Z: -900
+      X: -1675
+      Y: 5475
     }
     Rotation {
     }
@@ -3005,9 +2997,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 600
-      Y: 2250
-      Z: -900
+      X: -4200
+      Y: 5900
     }
     Rotation {
     }
@@ -3380,9 +3371,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 250
-      Y: 2250
-      Z: -900
+      X: -5750
+      Y: 4775
     }
     Rotation {
     }
@@ -3755,9 +3745,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 250
-      Y: 1400
-      Z: -750
+      X: -5300
+      Y: 800
     }
     Rotation {
     }
@@ -4130,9 +4119,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 250
-      Y: 1100
-      Z: -750
+      X: -4750
+      Y: -2500
     }
     Rotation {
     }
@@ -4505,9 +4493,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 550
-      Y: 1750
-      Z: -800
+      X: 4900
+      Y: -2200
     }
     Rotation {
     }
@@ -4880,9 +4867,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 550
-      Y: 1300
-      Z: -800
+      X: 3550
+      Y: 2450
     }
     Rotation {
     }
@@ -5255,9 +5241,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 350
+      X: -4150
       Y: 1600
-      Z: -800
     }
     Rotation {
     }
@@ -5630,8 +5615,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      Y: 1600
-      Z: -800
+      X: 2800
+      Y: 5050
     }
     Rotation {
     }
@@ -6004,9 +5989,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -250
-      Y: 1600
-      Z: -900
+      X: -2325
+      Y: 1275
     }
     Rotation {
     }
@@ -6379,9 +6363,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -500
-      Y: 1600
-      Z: -900
+      X: -2700
+      Y: -5400
     }
     Rotation {
     }
@@ -6754,9 +6737,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -800
-      Y: 1600
-      Z: -900
+      X: -2275
+      Y: -1625
     }
     Rotation {
     }
@@ -7129,9 +7111,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -800
-      Y: 1000
-      Z: -900
+      X: -3150
+      Y: -800
     }
     Rotation {
     }
@@ -7504,9 +7485,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -800
-      Y: 1250
-      Z: -900
+      X: -4250
+      Y: 2250
     }
     Rotation {
     }
@@ -7879,9 +7859,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -300
-      Y: 1250
-      Z: -750
+      X: -1000
+      Y: 3900
     }
     Rotation {
     }
@@ -8254,9 +8233,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -300
-      Y: 900
-      Z: -750
+      X: 5825
+      Y: 2225
     }
     Rotation {
     }
@@ -8629,9 +8607,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -300
-      Y: 150
-      Z: -1000
+      X: 4275
+      Y: -5125
     }
     Rotation {
     }
@@ -9004,8 +8981,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -300
-      Z: -1050
+      X: 6350
+      Y: -5550
     }
     Rotation {
     }
@@ -9378,8 +9355,9 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -100
-      Z: -1050
+      X: 6000
+      Y: 1750
+      Z: 125
     }
     Rotation {
     }
@@ -9752,8 +9730,9 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 100
-      Z: -1000
+      X: 5525
+      Y: -1800
+      Z: 125
     }
     Rotation {
     }
@@ -10126,9 +10105,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 100
-      Y: -250
-      Z: -1000
+      X: 6075
+      Y: -3450
     }
     Rotation {
     }
@@ -10501,9 +10479,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 450
-      Y: -250
-      Z: -900
+      X: 6225
+      Y: -4575
     }
     Rotation {
     }
@@ -10876,9 +10853,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 850
-      Y: -1600
-      Z: -900
+      X: 3125
+      Y: -4775
     }
     Rotation {
     }
@@ -11251,9 +11227,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 850
-      Y: 1650
-      Z: -800
+      X: -2975
+      Y: 4825
     }
     Rotation {
     }
@@ -11626,9 +11601,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 1200
-      Y: 1650
-      Z: -750
+      X: -1300
+      Y: 3525
     }
     Rotation {
     }
@@ -12001,9 +11975,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 1450
-      Y: 1650
-      Z: -750
+      X: -4675
+      Y: 5325
     }
     Rotation {
     }
@@ -12376,9 +12349,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 1450
-      Y: 1400
-      Z: -750
+      X: 6125
+      Y: -2575
     }
     Rotation {
     }
@@ -12751,9 +12723,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 1450
-      Y: 1200
-      Z: -700
+      X: -3025
+      Y: 5450
     }
     Rotation {
     }
@@ -13126,9 +13097,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 1450
-      Y: 1050
-      Z: -700
+      X: -4625
+      Y: -1000
     }
     Rotation {
     }
@@ -13501,9 +13471,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 1250
-      Y: 950
-      Z: -650
+      X: -5850
+      Y: 2875
     }
     Rotation {
     }
@@ -13876,9 +13845,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 1250
-      Y: 700
-      Z: -650
+      X: -5100
+      Y: -3950
     }
     Rotation {
     }
@@ -14251,9 +14219,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 1500
-      Y: 700
-      Z: -650
+      X: -3950
+      Y: -5800
     }
     Rotation {
     }
@@ -14626,9 +14593,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 1700
-      Y: 700
-      Z: -650
+      X: 4150
+      Y: -3050
     }
     Rotation {
     }
@@ -15001,9 +14967,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 1700
-      Y: 500
-      Z: -700
+      X: 3575
+      Y: 5900
     }
     Rotation {
     }
@@ -15376,9 +15341,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 1700
-      Y: 250
-      Z: -750
+      X: 3050
+      Y: -800
     }
     Rotation {
     }
@@ -15751,9 +15715,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 1700
-      Y: -50
-      Z: -750
+      X: -2300
+      Y: 450
     }
     Rotation {
     }
@@ -16126,9 +16089,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 1500
-      Y: -50
-      Z: -650
+      X: 2775
+      Y: 2150
     }
     Rotation {
     }
@@ -16501,9 +16463,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 1500
-      Y: 150
-      Z: -700
+      X: 2000
+      Y: 3050
     }
     Rotation {
     }
@@ -16876,9 +16837,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 1500
-      Y: 350
-      Z: -750
+      X: 2450
+      Y: -3375
     }
     Rotation {
     }
@@ -17251,9 +17211,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 1300
-      Y: 350
-      Z: -750
+      X: 5275
+      Y: -4175
     }
     Rotation {
     }
@@ -17626,8 +17585,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 1300
-      Z: -750
+      X: -5775
+      Y: -5825
     }
     Rotation {
     }
@@ -18000,8 +17959,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 950
-      Z: -750
+      X: -5775
+      Y: -3175
     }
     Rotation {
     }
@@ -18374,9 +18333,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 950
-      Y: 250
-      Z: -750
+      X: -4975
+      Y: -400
     }
     Rotation {
     }
@@ -18749,9 +18707,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 700
-      Y: 250
-      Z: -750
+      X: -5275
+      Y: 1575
     }
     Rotation {
     }
@@ -19124,9 +19081,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 700
-      Y: 550
-      Z: -750
+      X: -5325
+      Y: 5150
     }
     Rotation {
     }
@@ -19499,9 +19455,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 450
-      Y: 550
-      Z: -800
+      X: -3275
+      Y: 3800
     }
     Rotation {
     }
@@ -19874,9 +19829,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 450
-      Y: 750
-      Z: -800
+      X: -2350
+      Y: 3775
     }
     Rotation {
     }
@@ -20249,9 +20203,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 50
-      Y: 750
-      Z: -800
+      X: -3025
+      Y: 2050
     }
     Rotation {
     }
@@ -20624,9 +20577,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 50
-      Y: 450
-      Z: -900
+      X: -4500
+      Y: 4200
     }
     Rotation {
     }
@@ -20999,9 +20951,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -400
-      Y: 450
-      Z: -900
+      X: -3275
+      Y: 2900
     }
     Rotation {
     }
@@ -21374,9 +21325,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -650
-      Y: 700
-      Z: -900
+      X: -5400
+      Y: 3250
     }
     Rotation {
     }
@@ -21749,9 +21699,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -800
-      Y: 700
-      Z: -900
+      X: -3625
+      Y: 4925
     }
     Rotation {
     }
@@ -22124,9 +22073,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -800
-      Y: 500
-      Z: -900
+      X: -3650
+      Y: 4225
     }
     Rotation {
     }
@@ -22499,9 +22447,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -1000
-      Y: 500
-      Z: -900
+      X: 325
+      Y: 5300
     }
     Rotation {
     }
@@ -22874,9 +22821,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -1000
-      Y: 200
-      Z: -900
+      X: -1375
+      Y: 4575
     }
     Rotation {
     }
@@ -23250,8 +23196,7 @@ Objects {
   Transform {
     Location {
       X: -650
-      Y: 200
-      Z: -950
+      Y: 4900
     }
     Rotation {
     }
@@ -23624,9 +23569,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -850
-      Y: -100
-      Z: -950
+      X: -500
+      Y: 6075
     }
     Rotation {
     }
@@ -23999,9 +23943,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -650
-      Y: -100
-      Z: -950
+      X: 5725
+      Y: 5800
     }
     Rotation {
     }
@@ -24374,9 +24317,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -650
-      Y: -350
-      Z: -1050
+      X: 6025
+      Y: 3875
     }
     Rotation {
     }
@@ -24749,9 +24691,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -650
-      Y: -550
-      Z: -1050
+      X: 2625
+      Y: -2700
     }
     Rotation {
     }
@@ -25124,9 +25065,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -300
-      Y: -550
-      Z: -1050
+      X: 5050
+      Y: 1000
     }
     Rotation {
     }
@@ -25499,9 +25439,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -50
-      Y: -550
-      Z: -1000
+      X: 3275
+      Y: 300
     }
     Rotation {
     }
@@ -25874,9 +25813,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 200
-      Y: -550
-      Z: -1000
+      X: 6275
+      Y: -700
     }
     Rotation {
     }
@@ -26249,9 +26187,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 400
+      X: 4200
       Y: -550
-      Z: -950
     }
     Rotation {
     }
@@ -26624,9 +26561,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 650
-      Y: -550
-      Z: -900
+      X: 4800
+      Y: -1375
     }
     Rotation {
     }
@@ -26999,9 +26935,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 950
+      X: 3575
       Y: -550
-      Z: -916.699
     }
     Rotation {
     }
@@ -27374,9 +27309,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 1200
-      Y: -550
-      Z: -850
+      X: 6225
+      Y: -1400
     }
     Rotation {
     }
@@ -27749,9 +27683,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 1200
-      Y: -750
-      Z: -850
+      X: 3475
+      Y: -1950
     }
     Rotation {
     }
@@ -28124,9 +28057,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 1200
-      Y: -950
-      Z: -900
+      X: 3350
+      Y: -2650
     }
     Rotation {
     }
@@ -28499,9 +28431,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 950
-      Y: -1200
-      Z: -950
+      X: 2650
+      Y: -1475
     }
     Rotation {
     }
@@ -28874,9 +28805,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 950
-      Y: -950
-      Z: -900
+      X: 1750
+      Y: -3625
     }
     Rotation {
     }
@@ -29250,8 +29180,7 @@ Objects {
   Transform {
     Location {
       X: 700
-      Y: -950
-      Z: -950
+      Y: -4350
     }
     Rotation {
     }
@@ -29624,9 +29553,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 450
-      Y: -950
-      Z: -950
+      X: 1250
+      Y: -5000
     }
     Rotation {
     }
@@ -29999,9 +29927,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 200
-      Y: -950
-      Z: -1021.18579
+      X: 2625
+      Y: -5375
     }
     Rotation {
     }
@@ -30374,9 +30301,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -150
-      Y: -950
-      Z: -1050
+      X: 1925
+      Y: -2825
     }
     Rotation {
     }
@@ -30749,9 +30675,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -150
-      Y: -1300
-      Z: -1050
+      X: 1175
+      Y: -6100
     }
     Rotation {
     }
@@ -31124,9 +31049,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -150
-      Y: -1300
-      Z: -1050
+      X: 825
+      Y: -3725
     }
     Rotation {
     }
@@ -31499,9 +31423,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -500
-      Y: -1200
-      Z: -1050
+      X: 125
+      Y: -5425
     }
     Rotation {
     }
@@ -31874,9 +31797,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -500
-      Y: -1450
-      Z: -1050
+      X: -150
+      Y: -4025
     }
     Rotation {
     }
@@ -32249,9 +32171,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 300
-      Y: -1450
-      Z: -1050
+      X: -725
+      Y: -5225
     }
     Rotation {
     }
@@ -32624,9 +32545,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 300
-      Y: -1750
-      Z: -1050
+      X: 200
+      Y: -6175
     }
     Rotation {
     }
@@ -32999,9 +32919,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 50
-      Y: -1750
-      Z: -1050
+      X: -575
+      Y: -6150
     }
     Rotation {
     }
@@ -33374,9 +33293,9 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 50
+      X: -200
       Y: -2050
-      Z: -1000
+      Z: -850
     }
     Rotation {
     }
@@ -33751,7 +33670,7 @@ Objects {
     Location {
       X: -350
       Y: -2150
-      Z: -750
+      Z: -700
     }
     Rotation {
     }
@@ -34124,7 +34043,7 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -500
+      X: -525
       Y: -2300
       Z: -500
     }
@@ -34499,7 +34418,7 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -700
+      X: -625
       Y: -2400
       Z: -350
     }
@@ -34874,7 +34793,7 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -800
+      X: -675
       Y: -2600
       Z: -200
     }
@@ -35249,9 +35168,9 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -950
-      Y: -2700
-      Z: -100
+      X: -700
+      Y: -3075
+      Z: -75
     }
     Rotation {
     }
@@ -35624,8 +35543,9 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -1400
-      Y: -3100
+      X: -2450
+      Y: -6000
+      Z: 125
     }
     Rotation {
     }
@@ -35998,8 +35918,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -1400
-      Y: -2800
+      X: -1650
+      Y: -3150
     }
     Rotation {
     }
@@ -36372,8 +36292,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -1700
-      Y: -2800
+      X: -1325
+      Y: -4100
     }
     Rotation {
     }
@@ -36747,7 +36667,7 @@ Objects {
   Transform {
     Location {
       X: -1850
-      Y: -2750
+      Y: -4975
     }
     Rotation {
     }
@@ -37121,7 +37041,7 @@ Objects {
   Transform {
     Location {
       X: -2150
-      Y: -2600
+      Y: -3700
     }
     Rotation {
     }
@@ -37494,8 +37414,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -2400
-      Y: -2600
+      X: -2675
+      Y: -3175
     }
     Rotation {
     }
@@ -38243,7 +38163,7 @@ Objects {
   Transform {
     Location {
       X: -3050
-      Y: -2350
+      Y: -3975
     }
     Rotation {
     }
@@ -38616,8 +38536,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -3050
-      Y: -2050
+      X: -3300
+      Y: -5950
     }
     Rotation {
     }
@@ -38990,8 +38910,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -3450
-      Y: -2050
+      X: -4575
+      Y: -5550
     }
     Rotation {
     }
@@ -39738,8 +39658,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -4150
-      Y: -1950
+      X: -4900
+      Y: -4600
     }
     Rotation {
     }
@@ -40112,8 +40032,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -4350
-      Y: -1950
+      X: -1700
+      Y: -6025
     }
     Rotation {
     }
@@ -40860,8 +40780,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -3900
-      Y: -1700
+      X: -3625
+      Y: -3400
     }
     Rotation {
     }
@@ -41234,8 +41154,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -3500
-      Y: -1700
+      X: -5700
+      Y: -5050
     }
     Rotation {
     }
@@ -41608,8 +41528,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -2950
-      Y: -1700
+      X: -3250
+      Y: -1500
     }
     Rotation {
     }
@@ -41982,8 +41902,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -3050
-      Y: -1200
+      X: -3900
+      Y: -5075
     }
     Rotation {
     }
@@ -42356,8 +42276,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -3050
-      Y: -1450
+      X: -3950
+      Y: -1100
     }
     Rotation {
     }
@@ -42730,8 +42650,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -3650
-      Y: -1200
+      X: -5875
+      Y: -4225
     }
     Rotation {
     }
@@ -43104,8 +43024,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -3950
-      Y: -1200
+      X: -5000
+      Y: -3200
     }
     Rotation {
     }
@@ -43479,7 +43399,7 @@ Objects {
   Transform {
     Location {
       X: -3950
-      Y: -750
+      Y: -4100
     }
     Rotation {
     }
@@ -43853,7 +43773,7 @@ Objects {
   Transform {
     Location {
       X: -3450
-      Y: -850
+      Y: -2550
     }
     Rotation {
     }
@@ -44226,8 +44146,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -2900
-      Y: -850
+      X: -5000
+      Y: -1625
     }
     Rotation {
     }
@@ -44600,8 +44520,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -2550
-      Y: -850
+      X: -2500
+      Y: -1050
     }
     Rotation {
     }
@@ -44975,7 +44895,7 @@ Objects {
   Transform {
     Location {
       X: -2550
-      Y: -450
+      Y: -275
     }
     Rotation {
     }
@@ -45348,8 +45268,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -2900
-      Y: -450
+      X: -5675
+      Y: -2500
     }
     Rotation {
     }
@@ -45722,8 +45642,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -2900
-      Y: 150
+      X: -2625
+      Y: 325
     }
     Rotation {
     }
@@ -46096,8 +46016,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -3350
-      Y: 150
+      X: -3575
+      Y: -200
     }
     Rotation {
     }
@@ -46470,8 +46390,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -3350
-      Y: -150
+      X: -5750
+      Y: -1500
     }
     Rotation {
     }
@@ -46844,8 +46764,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -3850
-      Y: -150
+      X: -5575
+      Y: -475
     }
     Rotation {
     }
@@ -47218,8 +47138,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -3850
-      Y: 250
+      X: -3425
+      Y: 550
     }
     Rotation {
     }
@@ -47966,8 +47886,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -4200
-      Y: 250
+      X: -4300
+      Y: 825
     }
     Rotation {
     }
@@ -48340,8 +48260,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -4200
-      Y: 1000
+      X: -4775
+      Y: 450
     }
     Rotation {
     }
@@ -48714,8 +48634,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -4500
-      Y: 1450
+      X: -5825
+      Y: 525
     }
     Rotation {
     }
@@ -49088,8 +49008,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -3150
-      Y: 1300
+      X: -3000
+      Y: 1400
     }
     Rotation {
     }
@@ -49462,8 +49382,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -3400
-      Y: 750
+      X: -5000
+      Y: 5875
     }
     Rotation {
     }
@@ -49836,8 +49756,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -4000
-      Y: 1800
+      X: -5750
+      Y: 5500
     }
     Rotation {
     }
@@ -50210,8 +50130,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -2750
-      Y: 1000
+      X: -3625
+      Y: 2225
     }
     Rotation {
     }
@@ -50584,8 +50504,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -2700
-      Y: 2100
+      X: -4675
+      Y: 3675
     }
     Rotation {
     }
@@ -50958,8 +50878,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -3200
-      Y: 2100
+      X: -4650
+      Y: 1900
     }
     Rotation {
     }
@@ -51332,8 +51252,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -3550
-      Y: 2550
+      X: -5950
+      Y: 1575
     }
     Rotation {
     }
@@ -51706,8 +51626,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -3950
-      Y: 2900
+      X: -5875
+      Y: 3725
     }
     Rotation {
     }
@@ -52080,7 +52000,7 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -2850
+      X: -4575
       Y: 2850
     }
     Rotation {
@@ -52454,8 +52374,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -3250
-      Y: 3550
+      X: -3800
+      Y: 3250
     }
     Rotation {
     }
@@ -52828,8 +52748,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -2600
-      Y: 2600
+      X: -2550
+      Y: 2425
     }
     Rotation {
     }
@@ -53202,7 +53122,7 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -2800
+      X: -2625
       Y: 4300
     }
     Rotation {
@@ -53950,8 +53870,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -2100
-      Y: 3250
+      X: -5950
+      Y: 2300
     }
     Rotation {
     }
@@ -54324,8 +54244,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -2200
-      Y: 3950
+      X: -4175
+      Y: 4700
     }
     Rotation {
     }
@@ -54698,8 +54618,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -1450
-      Y: 3600
+      X: -1575
+      Y: 3800
       Z: 50
     }
     Rotation {
@@ -55073,7 +54993,7 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -1550
+      X: -1675
       Y: 4950
     }
     Rotation {
@@ -55447,7 +55367,7 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -1350
+      X: -5325
       Y: 4300
     }
     Rotation {
@@ -55822,7 +55742,7 @@ Objects {
   Transform {
     Location {
       X: -600
-      Y: 4050
+      Y: 4325
     }
     Rotation {
     }
@@ -56195,8 +56115,9 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -600
-      Y: 4750
+      X: -3700
+      Y: 5500
+      Z: 125
     }
     Rotation {
     }
@@ -56569,8 +56490,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: -250
-      Y: 4350
+      X: -3550
+      Y: 6000
     }
     Rotation {
     }
@@ -56944,7 +56865,7 @@ Objects {
   Transform {
     Location {
       X: 50
-      Y: 4950
+      Y: 4700
     }
     Rotation {
     }
@@ -57317,8 +57238,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 150
-      Y: 4500
+      X: -1675
+      Y: 5925
     }
     Rotation {
     }
@@ -57692,7 +57613,7 @@ Objects {
   Transform {
     Location {
       X: 700
-      Y: 4350
+      Y: 4925
     }
     Rotation {
     }
@@ -58065,8 +57986,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 700
-      Y: 4700
+      X: -2425
+      Y: 5650
     }
     Rotation {
     }
@@ -58439,8 +58360,7 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 1100
-      Y: 4700
+      Y: 5700
     }
     Rotation {
     }
@@ -58813,8 +58733,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 1700
-      Y: 4700
+      X: 2150
+      Y: 5100
     }
     Rotation {
     }
@@ -60683,8 +60603,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 3400
-      Y: 4050
+      X: 4600
+      Y: 5750
     }
     Rotation {
     }
@@ -61806,7 +61726,7 @@ Objects {
   Transform {
     Location {
       X: 3650
-      Y: 3250
+      Y: 3500
     }
     Rotation {
     }
@@ -62179,8 +62099,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 3400
-      Y: 3650
+      X: 3925
+      Y: 5025
     }
     Rotation {
     }
@@ -62927,8 +62847,9 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 3600
-      Y: 2750
+      X: 4300
+      Y: 3225
+      Z: 450
     }
     Rotation {
     }
@@ -63301,8 +63222,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 4050
-      Y: 2900
+      X: 4475
+      Y: 3575
     }
     Rotation {
     }
@@ -63675,9 +63596,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 4050
-      Y: 2400
-      Z: 100
+      X: 4400
+      Y: 1525
     }
     Rotation {
     }
@@ -64050,8 +63970,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 3050
-      Y: 2400
+      X: 3150
+      Y: 1950
     }
     Rotation {
     }
@@ -64424,8 +64344,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 3550
-      Y: 2000
+      X: 4225
+      Y: 2325
     }
     Rotation {
     }
@@ -64798,7 +64718,7 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 3150
+      X: 3775
       Y: 2850
     }
     Rotation {
@@ -65172,8 +65092,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 2350
-      Y: 2000
+      X: 5025
+      Y: 2700
     }
     Rotation {
     }
@@ -65546,8 +65466,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 3850
-      Y: 1750
+      X: 4000
+      Y: 4200
     }
     Rotation {
     }
@@ -65920,7 +65840,7 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 3050
+      X: 5225
       Y: 1650
     }
     Rotation {
@@ -66294,8 +66214,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 3650
-      Y: 1300
+      X: -775
+      Y: 5500
     }
     Rotation {
     }
@@ -66668,8 +66588,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 3200
-      Y: 1300
+      X: 4000
+      Y: 825
     }
     Rotation {
     }
@@ -67042,8 +66962,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 3800
-      Y: 1000
+      X: 4200
+      Y: -3800
     }
     Rotation {
     }
@@ -67416,8 +67336,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 3450
-      Y: 850
+      X: 2800
+      Y: 5825
     }
     Rotation {
     }
@@ -67790,8 +67710,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 2900
-      Y: 750
+      X: 5875
+      Y: 2900
     }
     Rotation {
     }
@@ -68164,8 +68084,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 3150
-      Y: 600
+      X: 5650
+      Y: 4550
     }
     Rotation {
     }
@@ -68538,8 +68458,9 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 3350
-      Y: 400
+      X: 5450
+      Y: 5200
+      Z: 125
     }
     Rotation {
     }
@@ -68912,7 +68833,7 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 3550
+      X: 3875
     }
     Rotation {
     }
@@ -69285,8 +69206,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 2950
-      Y: -50
+      X: 5725
+      Y: -175
     }
     Rotation {
     }
@@ -69659,8 +69580,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 3300
-      Y: -450
+      X: 5650
+      Y: -2300
     }
     Rotation {
     }
@@ -70033,8 +69954,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 3100
-      Y: -800
+      X: 4975
+      Y: 375
     }
     Rotation {
     }
@@ -70407,8 +70328,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 3400
-      Y: -900
+      X: 5950
+      Y: 925
     }
     Rotation {
     }
@@ -70781,8 +70702,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 2700
-      Y: -1250
+      X: 5275
+      Y: -5450
     }
     Rotation {
     }
@@ -71155,8 +71076,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 2900
-      Y: -1900
+      X: 4800
+      Y: -700
     }
     Rotation {
     }
@@ -71529,8 +71450,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 2900
-      Y: -2350
+      X: 3775
+      Y: -5675
     }
     Rotation {
     }
@@ -71903,8 +71824,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 2600
-      Y: -2700
+      X: 4175
+      Y: -1775
     }
     Rotation {
     }
@@ -72278,7 +72199,7 @@ Objects {
   Transform {
     Location {
       X: 2350
-      Y: -2700
+      Y: -3800
     }
     Rotation {
     }
@@ -72651,7 +72572,7 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 2350
+      X: 4925
       Y: -3050
     }
     Rotation {
@@ -73025,8 +72946,8 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 2350
-      Y: -3500
+      X: 4625
+      Y: -4625
     }
     Rotation {
     }
@@ -73399,8 +73320,9 @@ Objects {
   Name: "Ian\'s Raindrop"
   Transform {
     Location {
-      X: 1050
-      Y: -3600
+      X: 2475
+      Y: -5900
+      Z: 125
     }
     Rotation {
     }
@@ -73774,7 +73696,7 @@ Objects {
   Transform {
     Location {
       X: 1450
-      Y: -3600
+      Y: -4225
     }
     Rotation {
     }
@@ -74148,7 +74070,7 @@ Objects {
   Transform {
     Location {
       X: 550
-      Y: -4100
+      Y: -4925
     }
     Rotation {
     }
@@ -74522,7 +74444,7 @@ Objects {
   Transform {
     Location {
       X: 1950
-      Y: -3850
+      Y: -5300
     }
     Rotation {
     }
