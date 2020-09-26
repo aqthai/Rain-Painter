@@ -7,3 +7,12 @@
     AssetId: "sm_heart_polished_001"
   }
 }
+Assets {
+  Id: 3086661811366398537
+  Name: "Animated Glowing Hex"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "fxma_hex_animated"
+  }
+}

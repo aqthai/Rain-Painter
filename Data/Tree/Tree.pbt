@@ -2646,7 +2646,7 @@ Objects {
   Name: "lil boy"
   Transform {
     Location {
-      X: 2900
+      X: 2600
       Y: 850
       Z: -1350
     }
@@ -2983,9 +2983,9 @@ Objects {
     Rotation {
     }
     Scale {
-      X: 6.25
-      Y: 9.5
-      Z: 1
+      X: 63
+      Y: 95.7500229
+      Z: 10.000001
     }
   }
   ParentId: 10005074784157121906
@@ -3025,9 +3025,9 @@ Objects {
     Rotation {
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 2
+      Y: 2
+      Z: 2
     }
   }
   ParentId: 10005074784157121906
@@ -3251,15 +3251,15 @@ Objects {
   Transform {
     Location {
       X: -3800
-      Y: 1650
+      Y: 2500
       Z: -750
     }
     Rotation {
     }
     Scale {
-      X: 30.5000076
-      Y: 19
-      Z: 1
+      X: 50.7500038
+      Y: 31.5000019
+      Z: 1.75
     }
   }
   ParentId: 10005074784157121906
@@ -3286,16 +3286,16 @@ Objects {
   Name: "Rain Medium SFX"
   Transform {
     Location {
-      X: -3600
+      X: -3550
       Y: -750
       Z: -750
     }
     Rotation {
     }
     Scale {
-      X: 1
-      Y: 10.75
-      Z: 7
+      X: 1.5
+      Y: 16.9999981
+      Z: 11.0000019
     }
   }
   ParentId: 10005074784157121906
@@ -3521,9 +3521,9 @@ Objects {
     Rotation {
     }
     Scale {
-      X: 27.25
-      Y: 31
-      Z: 1
+      X: 36.5
+      Y: 41.5
+      Z: 1.25
     }
   }
   ParentId: 10005074784157121906
@@ -3550,11 +3550,12 @@ Objects {
   Name: "Rain Splash Volume VFX"
   Transform {
     Location {
-      X: -4000
-      Y: 2700
+      X: 4750
+      Y: 1350
       Z: -750
     }
     Rotation {
+      Yaw: -89.999939
     }
     Scale {
       X: 218.250031

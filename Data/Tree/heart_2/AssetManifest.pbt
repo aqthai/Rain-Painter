@@ -7,3 +7,12 @@
     AssetId: "sm_heart_polished_001"
   }
 }
+Assets {
+  Id: 3145727675503109944
+  Name: "Additive Soft Edge"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "fxma_additive_edgefade"
+  }
+}

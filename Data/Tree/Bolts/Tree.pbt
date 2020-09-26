@@ -5,19 +5,19 @@ Objects {
   Name: "lightning"
   Transform {
     Location {
-      X: -2800
+      X: -3200
       Y: 1350
       Z: 100
     }
     Rotation {
-      Pitch: 28.760128
-      Yaw: -75.9587402
+      Pitch: 28.7601147
+      Yaw: -75.9586792
       Roll: 176.772827
     }
     Scale {
-      X: 2.75
-      Y: 2.75
-      Z: 2.75
+      X: 5.00000095
+      Y: 5.00000095
+      Z: 5.00000095
     }
   }
   ParentId: 17822323184263680977
@@ -47,17 +47,17 @@ Objects {
     Location {
       X: 250
       Y: 1350
-      Z: -200
+      Z: 100
     }
     Rotation {
       Pitch: 12.2798872
       Yaw: -119.499176
-      Roll: 79.9115524
+      Roll: 79.9115372
     }
     Scale {
-      X: 2.75
-      Y: 2.75
-      Z: 2.75
+      X: 4.75000095
+      Y: 4.75000095
+      Z: 4.75000095
     }
   }
   ParentId: 17822323184263680977
@@ -85,19 +85,19 @@ Objects {
   Name: "lightning"
   Transform {
     Location {
-      X: 3450
+      X: 4150
       Y: 1350
       Z: 150
     }
     Rotation {
       Pitch: -27.4374084
-      Yaw: -106.617592
-      Roll: 2.23979068
+      Yaw: -106.617584
+      Roll: 2.23978686
     }
     Scale {
-      X: 2.75
-      Y: 2.75
-      Z: 2.75
+      X: 6.00000238
+      Y: 6.00000238
+      Z: 6.00000238
     }
   }
   ParentId: 17822323184263680977
