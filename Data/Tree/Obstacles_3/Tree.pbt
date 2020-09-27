@@ -1,12 +1,13 @@
-﻿Name: "Obstacles"
-RootId: 7356184808810035777
+﻿Name: "Obstacles_3"
+RootId: 1686852601396737375
 Objects {
-  Id: 2726121589599878405
+  Id: 13549298379734425698
   Name: "DisplayWeeds"
   Transform {
     Location {
-      X: -2350
-      Y: 1600
+      X: -1100
+      Y: -700
+      Z: 750
     }
     Rotation {
     }
@@ -16,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7356184808810035777
+  ParentId: 1686852601396737375
   UnregisteredParameters {
     Overrides {
       Name: "cs:GameSettings"
@@ -39,7 +40,7 @@ Objects {
   }
 }
 Objects {
-  Id: 2238063636135645265
+  Id: 6419032422952566892
   Name: "SpinObject"
   Transform {
     Location {
@@ -52,7 +53,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7356184808810035777
+  ParentId: 1686852601396737375
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -67,7 +68,7 @@ Objects {
   }
 }
 Objects {
-  Id: 11111741893137640117
+  Id: 12719462057771004694
   Name: "tumbleweed"
   Transform {
     Location {
@@ -83,7 +84,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7356184808810035777
+  ParentId: 1686852601396737375
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -93,7 +94,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "tumbleweed"
+    FilePartitionName: "tumbleweed_26"
   }
   InstanceHistory {
     SelfId: 2468441508927806843
@@ -104,7 +105,7 @@ Objects {
   }
 }
 Objects {
-  Id: 13781216849151628008
+  Id: 6130144643193353692
   Name: "tumbleweed"
   Transform {
     Location {
@@ -120,7 +121,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7356184808810035777
+  ParentId: 1686852601396737375
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -130,7 +131,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "tumbleweed_1"
+    FilePartitionName: "tumbleweed_27"
   }
   InstanceHistory {
     SelfId: 2468441508927806843
@@ -141,7 +142,7 @@ Objects {
   }
 }
 Objects {
-  Id: 1805421148438037218
+  Id: 5300415270781013880
   Name: "tumbleweed"
   Transform {
     Location {
@@ -157,7 +158,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7356184808810035777
+  ParentId: 1686852601396737375
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -167,7 +168,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "tumbleweed_2"
+    FilePartitionName: "tumbleweed_28"
   }
   InstanceHistory {
     SelfId: 2468441508927806843
@@ -178,7 +179,7 @@ Objects {
   }
 }
 Objects {
-  Id: 11496865896935040778
+  Id: 8311864972507775991
   Name: "tumbleweed"
   Transform {
     Location {
@@ -193,7 +194,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7356184808810035777
+  ParentId: 1686852601396737375
   UnregisteredParameters {
     Overrides {
       Name: "cs:GameSettings"
@@ -211,7 +212,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "tumbleweed_3"
+    FilePartitionName: "tumbleweed_29"
   }
   InstanceHistory {
     SelfId: 2468441508927806843

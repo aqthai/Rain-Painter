@@ -16,3 +16,12 @@ Assets {
     AssetId: "sm_prism_001"
   }
 }
+Assets {
+  Id: 1710358234571437774
+  Name: "Zap Double SFX"
+  PlatformAssetType: 7
+  PrimaryAsset {
+    AssetType: "AudioAssetRef"
+    AssetId: "sfx_zap_double"
+  }
+}

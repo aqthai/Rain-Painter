@@ -152,6 +152,15 @@ Assets {
   }
 }
 Assets {
+  Id: 3145727675503109944
+  Name: "Additive Soft Edge"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "fxma_additive_edgefade"
+  }
+}
+Assets {
   Id: 2794624712506442034
   Name: "Rain Volume VFX"
   PlatformAssetType: 8

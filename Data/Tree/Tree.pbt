@@ -34,6 +34,8 @@ Objects {
   ChildIds: 17125447521315056500
   ChildIds: 3618649080835565714
   ChildIds: 8032489910953142172
+  ChildIds: 17967758716021021037
+  ChildIds: 5240993700772735762
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -43,6 +45,74 @@ Objects {
     Value: "mc:evisibilitysetting:forceon"
   }
   Folder {
+  }
+}
+Objects {
+  Id: 5240993700772735762
+  Name: "Soundtracks"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Soundtracks"
+  }
+}
+Objects {
+  Id: 17967758716021021037
+  Name: "Nature Thunder Clap Boom Set 01 SFX"
+  Transform {
+    Location {
+      X: 3300
+      Y: 3250
+      Z: -50
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 8864297508483227123
+    }
+    TeamSettings {
+    }
+    AudioBP {
+      AutoPlay: true
+      Repeat: true
+      Volume: 1
+      Falloff: 3600
+      Radius: 400
+      EnableOcclusion: true
+      IsSpatializationEnabled: true
+      IsAttenuationEnabled: true
+    }
   }
 }
 Objects {
@@ -125,6 +195,14 @@ Objects {
     }
   }
   ParentId: 8032489910953142172
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_Trim:id"
+      AssetReference {
+        Id: 3145727675503109944
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3414,6 +3492,7 @@ Objects {
       Id: 8143830673096917146
     }
     AutoPlay: true
+    Repeat: true
     Volume: 1
     Falloff: -1
     Radius: -1
@@ -3451,6 +3530,8 @@ Objects {
     AudioAsset {
       Id: 8143830673096917146
     }
+    AutoPlay: true
+    Repeat: true
     Volume: 1
     Falloff: -1
     Radius: -1
@@ -3529,6 +3610,7 @@ Objects {
       Id: 8143830673096917146
     }
     AutoPlay: true
+    Repeat: true
     Pitch: -2400
     Volume: 1
     Falloff: -1
@@ -3567,6 +3649,8 @@ Objects {
     AudioAsset {
       Id: 8143830673096917146
     }
+    AutoPlay: true
+    Transient: true
     Volume: 1
     Falloff: -1
     Radius: -1
@@ -3604,6 +3688,8 @@ Objects {
     AudioAsset {
       Id: 8143830673096917146
     }
+    AutoPlay: true
+    Transient: true
     Volume: 1
     Falloff: -1
     Radius: -1

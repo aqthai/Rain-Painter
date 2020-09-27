@@ -1,6 +1,47 @@
 ﻿Name: "lightning_10"
 RootId: 988217861687727880
 Objects {
+  Id: 454242800591153414
+  Name: "Zap Double SFX"
+  Transform {
+    Location {
+      X: 378.424408
+      Y: -604.553162
+      Z: 144.785309
+    }
+    Rotation {
+      Pitch: -5.40670252
+      Yaw: 104.770523
+      Roll: 27.0260487
+    }
+    Scale {
+      X: 0.166666612
+      Y: 0.166666612
+      Z: 0.166666612
+    }
+  }
+  ParentId: 988217861687727880
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  AudioInstance {
+    AudioAsset {
+      Id: 1710358234571437774
+    }
+    Repeat: true
+    Volume: 1
+    Falloff: -1
+    Radius: -1
+    EnableOcclusion: true
+    IsSpatializationEnabled: true
+    IsAttenuationEnabled: true
+  }
+}
+Objects {
   Id: 17447150541455006044
   Name: "lightningBolt"
   Transform {

@@ -1,6 +1,74 @@
 ﻿Name: "Objects"
 RootId: 16990012671700417463
 Objects {
+  Id: 11169217934820800980
+  Name: "Obstacles3"
+  Transform {
+    Location {
+      X: -4750
+      Y: 4250
+      Z: 50
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16990012671700417463
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:forceoff"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Obstacles3"
+  }
+}
+Objects {
+  Id: 7356184808810035777
+  Name: "Obstacles"
+  Transform {
+    Location {
+      X: 4600
+      Y: 2300
+      Z: 150
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16990012671700417463
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:GameSettings"
+      ObjectReference {
+        SelfId: 16668152101245738767
+      }
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:forceoff"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Obstacles"
+  }
+}
+Objects {
   Id: 12274456288256738489
   Name: "Rock Pile 002"
   Transform {
@@ -599,44 +667,6 @@ Objects {
       Physics {
       }
     }
-  }
-}
-Objects {
-  Id: 8730541068605683880
-  Name: "Obstacles"
-  Transform {
-    Location {
-      X: 3800
-      Y: 4800
-      Z: 50
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 16990012671700417463
-  UnregisteredParameters {
-    Overrides {
-      Name: "cs:GameSettings"
-      ObjectReference {
-        SelfId: 16668152101245738767
-      }
-    }
-  }
-  WantsNetworking: true
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:forceoff"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:forceoff"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Obstacles"
   }
 }
 Objects {
@@ -1749,7 +1779,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Obstacles3"
+    FilePartitionName: "Obstacles3_2"
   }
 }
 Objects {
@@ -1779,7 +1809,45 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Obstacles3_2"
+    FilePartitionName: "Obstacles3_3"
+  }
+}
+Objects {
+  Id: 8730541068605683880
+  Name: "Obstacles"
+  Transform {
+    Location {
+      X: 3800
+      Y: 4800
+      Z: 50
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16990012671700417463
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:GameSettings"
+      ObjectReference {
+        SelfId: 16668152101245738767
+      }
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:forceoff"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Obstacles_2"
   }
 }
 Objects {
@@ -1809,7 +1877,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Obstacles_2"
+    FilePartitionName: "Obstacles_3"
   }
 }
 Objects {

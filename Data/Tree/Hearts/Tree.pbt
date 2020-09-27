@@ -110,9 +110,9 @@ Objects {
   Name: "Trigger"
   Transform {
     Location {
-      X: -4350
-      Y: -9950
-      Z: -46.1215973
+      X: -2200
+      Y: -4700
+      Z: -800
     }
     Rotation {
     }
@@ -215,9 +215,9 @@ Objects {
   Name: "Trigger"
   Transform {
     Location {
-      X: -6300
-      Y: -8200
-      Z: -46.1215973
+      X: -1250
+      Y: -5250
+      Z: -850
     }
     Rotation {
     }
@@ -320,9 +320,9 @@ Objects {
   Name: "Trigger"
   Transform {
     Location {
-      X: -6300
-      Y: -5500
-      Z: -46.1215973
+      X: -2350
+      Y: -5550
+      Z: -950
     }
     Rotation {
     }
@@ -425,9 +425,9 @@ Objects {
   Name: "Trigger"
   Transform {
     Location {
-      X: -617.37085
-      Y: 170.28125
-      Z: -46.1215973
+      X: -1500
+      Y: -6450
+      Z: -1000
     }
     Rotation {
     }

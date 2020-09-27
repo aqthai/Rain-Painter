@@ -3,7 +3,8 @@
 function OnBeginOverlap(theTrigger, player)
   -- The object's type must be checked because CoreObjects also overlap triggers
     if player and player:IsA("Player") then
-        player:TransferToGame("577d80/core-royale")
+    	--goes to Richard's group
+        player:TransferToGame("7b82e0/ensemble-1-explorer-artists")
     end
 end
 

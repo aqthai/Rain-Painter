@@ -1,7 +1,7 @@
 ﻿Name: "Obstacles3"
-RootId: 5331474697220719325
+RootId: 11169217934820800980
 Objects {
-  Id: 15432075406643116899
+  Id: 13727591596836389889
   Name: "DisplayWeeds"
   Transform {
     Location {
@@ -16,7 +16,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5331474697220719325
+  ParentId: 11169217934820800980
   UnregisteredParameters {
     Overrides {
       Name: "cs:GameSettings"
@@ -39,7 +39,7 @@ Objects {
   }
 }
 Objects {
-  Id: 12593438834375253555
+  Id: 2154747405918519264
   Name: "SpinObject"
   Transform {
     Location {
@@ -54,7 +54,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5331474697220719325
+  ParentId: 11169217934820800980
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -69,7 +69,7 @@ Objects {
   }
 }
 Objects {
-  Id: 1874779479341568616
+  Id: 10584986933547029782
   Name: "tumbleweed"
   Transform {
     Location {
@@ -85,7 +85,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5331474697220719325
+  ParentId: 11169217934820800980
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -106,7 +106,7 @@ Objects {
   }
 }
 Objects {
-  Id: 16118834613860108167
+  Id: 2234687812612290841
   Name: "tumbleweed"
   Transform {
     Location {
@@ -122,7 +122,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5331474697220719325
+  ParentId: 11169217934820800980
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -143,7 +143,7 @@ Objects {
   }
 }
 Objects {
-  Id: 5078950435905466046
+  Id: 3037651613439871979
   Name: "tumbleweed"
   Transform {
     Location {
@@ -159,7 +159,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5331474697220719325
+  ParentId: 11169217934820800980
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
