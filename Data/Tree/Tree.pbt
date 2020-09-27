@@ -33,9 +33,10 @@ Objects {
   ChildIds: 10261987069843347996
   ChildIds: 17125447521315056500
   ChildIds: 3618649080835565714
-  ChildIds: 8032489910953142172
   ChildIds: 17967758716021021037
   ChildIds: 5240993700772735762
+  ChildIds: 8032489910953142172
+  ChildIds: 16805160015057802319
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -48,12 +49,15 @@ Objects {
   }
 }
 Objects {
-  Id: 5240993700772735762
-  Name: "Soundtracks"
+  Id: 16805160015057802319
+  Name: "Trigger"
   Transform {
     Location {
+      X: -1650
+      Y: -6220.65137
     }
     Rotation {
+      Yaw: -10.0000305
     }
     Scale {
       X: 1
@@ -62,25 +66,31 @@ Objects {
     }
   }
   ParentId: 4781671109827199097
+  ChildIds: 15873735842303857864
+  ChildIds: 6357331832751236493
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Soundtracks"
+  Trigger {
+    TeamSettings {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    TriggerShape_v2 {
+      Value: "mc:etriggershape:box"
+    }
   }
 }
 Objects {
-  Id: 17967758716021021037
-  Name: "Nature Thunder Clap Boom Set 01 SFX"
+  Id: 6357331832751236493
+  Name: "PortalScript"
   Transform {
     Location {
-      X: 3300
-      Y: 3250
-      Z: -50
+      X: 188.028641
+      Y: 6220.65137
     }
     Rotation {
     }
@@ -90,28 +100,70 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 16805160015057802319
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  Blueprint {
-    BlueprintAsset {
-      Id: 8864297508483227123
+  Script {
+    ScriptAsset {
+      Id: 6461155147438184365
     }
-    TeamSettings {
+  }
+}
+Objects {
+  Id: 15873735842303857864
+  Name: "Craftsman Part - Doorway"
+  Transform {
+    Location {
+      Z: -90.6742554
     }
-    AudioBP {
-      AutoPlay: true
-      Repeat: true
-      Volume: 1
-      Falloff: 3600
-      Radius: 400
-      EnableOcclusion: true
-      IsSpatializationEnabled: true
-      IsAttenuationEnabled: true
+    Rotation {
+      Yaw: 10.0000668
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16805160015057802319
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_Trim:id"
+      AssetReference {
+        Id: 11725050955412369427
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Trim:color"
+      Color {
+        G: 0.241986424
+        B: 0.63
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3489046491898639386
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
     }
   }
 }
@@ -199,7 +251,7 @@ Objects {
     Overrides {
       Name: "ma:Shared_Trim:id"
       AssetReference {
-        Id: 3145727675503109944
+        Id: 11725050955412369427
       }
     }
   }
@@ -221,6 +273,74 @@ Objects {
     StaticMesh {
       Physics {
       }
+    }
+  }
+}
+Objects {
+  Id: 5240993700772735762
+  Name: "Soundtracks"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Soundtracks"
+  }
+}
+Objects {
+  Id: 17967758716021021037
+  Name: "Nature Thunder Clap Boom Set 01 SFX"
+  Transform {
+    Location {
+      X: 3300
+      Y: 3250
+      Z: -50
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 8864297508483227123
+    }
+    TeamSettings {
+    }
+    AudioBP {
+      AutoPlay: true
+      Repeat: true
+      Volume: 1
+      Falloff: 3600
+      Radius: 400
+      EnableOcclusion: true
+      IsSpatializationEnabled: true
+      IsAttenuationEnabled: true
     }
   }
 }
