@@ -33,6 +33,7 @@ Objects {
   ChildIds: 10261987069843347996
   ChildIds: 17125447521315056500
   ChildIds: 3618649080835565714
+  ChildIds: 8032489910953142172
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -42,6 +43,107 @@ Objects {
     Value: "mc:evisibilitysetting:forceon"
   }
   Folder {
+  }
+}
+Objects {
+  Id: 8032489910953142172
+  Name: "Trigger"
+  Transform {
+    Location {
+      X: -188.028641
+      Y: -6220.65137
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  ChildIds: 4326443798715808193
+  ChildIds: 11385248222691760882
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Trigger {
+    TeamSettings {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    TriggerShape_v2 {
+      Value: "mc:etriggershape:box"
+    }
+  }
+}
+Objects {
+  Id: 11385248222691760882
+  Name: "PortalScript"
+  Transform {
+    Location {
+      X: 188.028641
+      Y: 6220.65137
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8032489910953142172
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 6461155147438184365
+    }
+  }
+}
+Objects {
+  Id: 4326443798715808193
+  Name: "Craftsman Part - Doorway"
+  Transform {
+    Location {
+      Z: -90.6742554
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8032489910953142172
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3489046491898639386
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
   }
 }
 Objects {
@@ -2646,16 +2748,17 @@ Objects {
   Name: "lil boy"
   Transform {
     Location {
-      X: 2600
-      Y: 850
-      Z: -1350
+      X: 4818.11719
+      Y: 10119.2988
+      Z: -17130.2559
     }
     Rotation {
+      Yaw: -21.9891357
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 8.10205
+      Y: 8.10205
+      Z: 8.10205
     }
   }
   ParentId: 4781671109827199097

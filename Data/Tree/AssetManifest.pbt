@@ -143,6 +143,15 @@ Assets {
   }
 }
 Assets {
+  Id: 3489046491898639386
+  Name: "Craftsman Part - Doorway"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_urb_sub_craftsman_part_doorway_001"
+  }
+}
+Assets {
   Id: 2794624712506442034
   Name: "Rain Volume VFX"
   PlatformAssetType: 8
